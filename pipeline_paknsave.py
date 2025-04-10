@@ -52,7 +52,7 @@ def get_store_products(store_id, category_name, category_path):
             EC.element_to_be_clickable((By.XPATH, '//button[contains(@class, "_1c9qavo0 _1c9qavo2 _1c9qavo8")]'))
         )
         driver.execute_script("arguments[0].click();", popup_button)
-        # print("成功点击切换门店按钮")
+
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.XPATH, '//div[@class="owfhtz0"]'))
         )
@@ -63,9 +63,9 @@ def get_store_products(store_id, category_name, category_path):
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.XPATH, '//div[@class="owfhtz0"]'))
         )
-        # print("✅ 商品数据已加载！")
+
     except TimeoutException:
-        # print("❌ 页面加载超时，重新刷新页面")
+
         driver.refresh()
         time.sleep(10)
 
@@ -165,10 +165,10 @@ def get_store_products(store_id, category_name, category_path):
         try:
             next_button = driver.find_element(By.XPATH, '//a[@data-testid="pagination-increment"]')
             driver.execute_script("arguments[0].click();", next_button)
-            # print("翻页中...")
+
             time.sleep(5)
         except NoSuchElementException:
-            # print("已到达最后一页")
+
             break
 
 # 主逻辑

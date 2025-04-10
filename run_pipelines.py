@@ -19,8 +19,8 @@ log_path = os.path.join(log_dir, f"{today}.txt")
 with open(log_path, "w", encoding="utf-8") as log:
     for script in scripts:
         script_name = os.path.basename(script)
-        print(f"\n👉 开始运行: {script_name}")
-        log.write(f"\n👉 开始运行: {script_name}\n")
+        print(f"\n开始运行: {script_name}")
+        log.write(f"\n开始运行: {script_name}\n")
 
         #  运行脚本并实时输出
         process = subprocess.Popen(
@@ -34,7 +34,7 @@ with open(log_path, "w", encoding="utf-8") as log:
 
         # 实时读取输出并写入日志
         for line in iter(process.stdout.readline, ''):
-            print(line, end='')         # 控制台打印
+            print(line, end='')
             log.write(line)             # 写入日志
 
         process.stdout.close()
@@ -42,7 +42,7 @@ with open(log_path, "w", encoding="utf-8") as log:
 
         if process.returncode != 0:
             print(f"{script_name} 执行失败，错误码: {process.returncode}")
-            log.write(f"❌ {script_name} 执行失败，错误码: {process.returncode}\n")
+            log.write(f" {script_name} 执行失败，错误码: {process.returncode}\n")
         else:
             print(f" {script_name} 执行完成")
             log.write(f" {script_name} 执行完成\n")

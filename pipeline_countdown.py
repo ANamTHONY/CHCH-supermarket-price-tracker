@@ -93,7 +93,7 @@ def scrape_products(driver, category_name, store_key):
 
     time.sleep(1)
     products = driver.find_elements(By.XPATH, '//div[contains(@class, "product-entry")]')
-    # print(f"🔍 共找到 {len(products)} 个商品")
+    # print(f" 共找到 {len(products)} 个商品")
 
     for product in products:
         try:
@@ -124,7 +124,7 @@ def scrape_products(driver, category_name, store_key):
             except Exception:
                 total_price = None
 
-            # 提取单位价格（如 $4.93 / 1L）
+            # 提取单位价格
             try:
                 unit_price_raw = product.find_element(
                     By.XPATH, './/span[contains(@class, "cupPrice")]'
@@ -176,7 +176,7 @@ def scrape_products(driver, category_name, store_key):
 
                 cursor.execute(sql, values)
                 db.commit()
-                # print(f"已写入数据库: {name}")
+
             except Exception as e:
                 db.rollback()
                 print(f" 写入失败: {e}")
