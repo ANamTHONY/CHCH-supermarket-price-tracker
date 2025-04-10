@@ -1,0 +1,145 @@
+
+👉 开始运行: pipeline_countdown.py
+ 切换到门店：Woolworths Christchurch Airport
+
+ 正在爬取分类：Egg - https://www.woolworths.co.nz/shop/browse/pantry/eggs
+分类 [Egg] 商品信息打印完毕
+
+
+ 正在爬取分类：Milk - https://www.woolworths.co.nz/shop/browse/fridge-deli/milk/full-cream-milk
+分类 [Milk] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/beef
+分类 [Meat] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb
+分类 [Meat] 商品信息打印完毕
+
+ 切换到门店：Woolworths Church Corner
+
+ 正在爬取分类：Egg - https://www.woolworths.co.nz/shop/browse/pantry/eggs
+分类 [Egg] 商品信息打印完毕
+
+
+ 正在爬取分类：Milk - https://www.woolworths.co.nz/shop/browse/fridge-deli/milk/full-cream-milk
+分类 [Milk] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/beef
+分类 [Meat] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb
+分类 [Meat] 商品信息打印完毕
+
+ 切换到门店：Woolworths Moorhouse Ave
+
+ 正在爬取分类：Egg - https://www.woolworths.co.nz/shop/browse/pantry/eggs
+分类 [Egg] 商品信息打印完毕
+
+
+ 正在爬取分类：Milk - https://www.woolworths.co.nz/shop/browse/fridge-deli/milk/full-cream-milk
+分类 [Milk] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/beef
+分类 [Meat] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb
+分类 [Meat] 商品信息打印完毕
+
+WoolWorths data successfully collected
+====================================================================
+Exception ignored in: <function Chrome.__del__ at 0x0000020FDF2B20C0>
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+OSError: [WinError 6] 句柄无效。
+ pipeline_countdown.py 执行完成
+
+👉 开始运行: pipeline_newworld.py
+ 爬取 Egg @ store c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Milk @ store c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Meat @ store c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Egg @ store 81f807e9-1879-484c-b27e-ded56245c6a4
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=81f807e9-1879-484c-b27e-ded56245c6a4
+ 爬取 Milk @ store 81f807e9-1879-484c-b27e-ded56245c6a4
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=81f807e9-1879-484c-b27e-ded56245c6a4
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Meat @ store 81f807e9-1879-484c-b27e-ded56245c6a4
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=81f807e9-1879-484c-b27e-ded56245c6a4
+没有弹窗按钮，或点击失败，跳过
+NewWorld data successfully collected
+====================================================================
+Exception ignored in: <function Chrome.__del__ at 0x00000207E14C87C0>
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+OSError: [WinError 6] 句柄无效。
+ pipeline_newworld.py 执行完成
+
+👉 开始运行: pipeline_paknsave.py
+ 爬取 Egg @ store 4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Milk @ store 4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Meat @ store 4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+没有弹窗按钮，或点击失败，跳过
+ 爬取 Egg @ store 61dd754e-8525-4b9e-9e08-173389eea8a8
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=61dd754e-8525-4b9e-9e08-173389eea8a8
+❌ 插入失败: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00580B43+25139]
+	(No symbol) [0x005113F4]
+	(No symbol) [0x003F04E3]
+	(No symbol) [0x003F6F01]
+	(No symbol) [0x003F900A]
+	(No symbol) [0x003F9087]
+	(No symbol) [0x00437C61]
+	(No symbol) [0x0043872B]
+	(No symbol) [0x0042DA81]
+	(No symbol) [0x0045D014]
+	(No symbol) [0x0042D9A4]
+	(No symbol) [0x0045D244]
+	(No symbol) [0x0047E778]
+	(No symbol) [0x0045CDC6]
+	(No symbol) [0x0042BDE9]
+	(No symbol) [0x0042D124]
+	GetHandleVerifier [0x00884373+3185251]
+	GetHandleVerifier [0x008A291A+3309578]
+	GetHandleVerifier [0x0089CF42+3286578]
+	GetHandleVerifier [0x00617AE0+643536]
+	(No symbol) [0x0051A20D]
+	(No symbol) [0x005170B8]
+	(No symbol) [0x00517257]
+	(No symbol) [0x00509E00]
+	BaseThreadInitThunk [0x765F7BA9+25]
+	RtlInitializeExceptionChain [0x772CC2EB+107]
+	RtlClearBits [0x772CC26F+191]
+
+Traceback (most recent call last):
+  File "F:\Supermarket\pipeline_paknsave.py", line 179, in <module>
+    get_store_products(store_id, cat["name"], cat["path"])
+  File "F:\Supermarket\pipeline_paknsave.py", line 83, in get_store_products
+    product = driver.find_elements(By.XPATH, '//div[@class="owfhtz0"]')[i]
+              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+Exception ignored in: <function Chrome.__del__ at 0x000002A38FA787C0>
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+OSError: [WinError 6] 句柄无效。
+❌ pipeline_paknsave.py 执行失败，错误码: 1
