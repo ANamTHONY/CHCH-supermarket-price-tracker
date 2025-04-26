@@ -7,10 +7,11 @@ from datetime import datetime
 import pymysql
 import time
 import re
+from product_mapper import get_product_id
 
 # connection
 db = pymysql.connect(
-    host="localhost",
+    host="127.0.0.1",
     port=3306,
     user="root",
     password="0130",
@@ -20,13 +21,18 @@ db = pymysql.connect(
 cursor = db.cursor()
 
 # Chrome drive
-driver = uc.Chrome(version_main=133, headless=False)
+driver = uc.Chrome( headless=False)
 driver.maximize_window()
 
 # ID list
 christchurch_stores = [
-    "c6abac35-b75f-4a02-9b43-7ad5a7c7aa37",
-    "81f807e9-1879-484c-b27e-ded56245c6a4"
+    "3ee7214b-6df4-4fdb-9dd6-3b2fc252ba6b", "95d161ea-9a31-4fca-acbe-96f271d627df",
+    "c6abac35-b75f-4a02-9b43-7ad5a7c7aa37","81f807e9-1879-484c-b27e-ded56245c6a4", "c1aaac72-38c0-4cc0-ad05-f241047d88c5",
+    "b3158cd8-72b9-40e5-8c4e-abd43c1be305", "bae1da58-ac6b-4ef2-816d-4932691218d1",
+    "a0d86b5f-fdf4-44d1-b7a2-f418bdb37f4e", "fc91d59f-6ab5-4447-8737-125e09e8e50e",
+    "0637c08c-ac36-4940-8582-38e44a4812fa", "bfe3a4ae-2f6d-46ed-ba60-28451a4807bf",
+    "bfe3a4ae-2f6d-46ed-ba60-28451a4807bf", "bfe3a4ae-2f6d-46ed-ba60-28451a4807bf"
+
 ]
 
 # Categories
@@ -55,7 +61,7 @@ def get_store_products(store_id, category_name, category_path):
             EC.presence_of_element_located((By.XPATH, '//div[@class="_1afq4wy0"]'))
         )
     except (NoSuchElementException, TimeoutException):
-        print("没有弹窗按钮，或点击失败，跳过")
+        print("没有弹窗按钮，跳过")
 
     try:
         WebDriverWait(driver, 15).until(
@@ -74,7 +80,7 @@ def get_store_products(store_id, category_name, category_path):
 
     while True:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(0.5)
+        time.sleep(2)
         products = driver.find_elements(By.XPATH, '//div[@class="_1afq4wy0"]')
 
         for p in products:
@@ -98,10 +104,11 @@ def get_store_products(store_id, category_name, category_path):
 
                 # unit
                 try:
-                    unit = p.find_element(By.XPATH, ".//p[@data-testid='product-subtitle']").text.strip()
+                    unit = p.find_element(By.XPATH, ".//p[@data-testid='price-per']").text.strip()
                 except NoSuchElementException:
                     unit = "NA"
 
+                product_id = get_product_id("nw", name, total_quant_text)
 
 
                 # 优先尝试促销价格（Club Deal）
@@ -168,11 +175,11 @@ def get_store_products(store_id, category_name, category_path):
                 ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 """
                 values = (
-                    None,  # product_id 可以后续补
+                    product_id,  # product_id 可以后续补
                     store_id,
                     category_id,
                     price,
-                    total_quant,
+                    total_quant_text,
                     unit,
                     unit_price_calc,
                     name,
@@ -202,7 +209,7 @@ def get_store_products(store_id, category_name, category_path):
 # main
 for store_id in christchurch_stores:
     for cat in categories:
-        time.sleep(5)
+        time.sleep(7)
         print(f" 爬取 {cat['name']} @ store {store_id}")
         get_store_products(store_id, cat["name"], cat["path"])
 

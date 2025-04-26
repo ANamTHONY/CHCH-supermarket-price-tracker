@@ -1,0 +1,45 @@
+
+开始运行: pipeline_countdown.py
+Traceback (most recent call last):
+  File "F:\Supermarket\pipeline_countdown.py", line 10, in <module>
+    from product_mapper import get_product_id
+  File "F:\Supermarket\product_mapper.py", line 4, in <module>
+    df = pd.read_excel("map.xlsx", sheet_name=0)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\pandas\io\excel\_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\pandas\io\excel\_base.py", line 1554, in __init__
+    raise ValueError(
+ValueError: Excel file format cannot be determined, you must specify an engine manually.
+ pipeline_countdown.py 执行失败，错误码: 1
+
+开始运行: pipeline_newworld.py
+Traceback (most recent call last):
+  File "F:\Supermarket\pipeline_newworld.py", line 10, in <module>
+    from product_mapper import get_product_id
+  File "F:\Supermarket\product_mapper.py", line 4, in <module>
+    df = pd.read_excel("map.xlsx", sheet_name=0)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\pandas\io\excel\_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\pandas\io\excel\_base.py", line 1554, in __init__
+    raise ValueError(
+ValueError: Excel file format cannot be determined, you must specify an engine manually.
+ pipeline_newworld.py 执行失败，错误码: 1
+
+开始运行: pipeline_paknsave.py
+Traceback (most recent call last):
+  File "F:\Supermarket\pipeline_paknsave.py", line 10, in <module>
+    from product_mapper import get_product_id
+  File "F:\Supermarket\product_mapper.py", line 4, in <module>
+    df = pd.read_excel("map.xlsx", sheet_name=0)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\pandas\io\excel\_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\pandas\io\excel\_base.py", line 1554, in __init__
+    raise ValueError(
+ValueError: Excel file format cannot be determined, you must specify an engine manually.
+ pipeline_paknsave.py 执行失败，错误码: 1

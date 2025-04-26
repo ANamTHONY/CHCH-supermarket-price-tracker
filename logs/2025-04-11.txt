@@ -1,0 +1,1369 @@
+
+开始运行: pipeline_countdown.py
+ 切换到门店：Woolworths Christchurch Airport
+
+ 正在爬取分类：Egg - https://www.woolworths.co.nz/shop/browse/pantry/eggs
+[Egg] Woodland Eggs Free Range Size 7 Carton 10pack | 总价: 8.9|总数量：10pack | 单位价: 0.89 单位： ea | Promo: 1
+[Egg] Woodland Eggs Free Range Size 6 Carton 10pack | 总价: 9.65|总数量：10pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Mixed Grade Tray 20pack | 总价: 15.2|总数量：20pack | 单位价: 0.76 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Size 6 Carton 18pack | 总价: 13.0|总数量：18pack | 单位价: 0.72 单位： ea | Promo: 1
+[Egg] Woolworths Eggs Barn Mixed Grade Carton 12pack | 总价: 8.5|总数量：12pack | 单位价: 0.71 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Mixed Grade Carton 12pack | 总价: 9.9|总数量：12pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Cage Free Barn Size 6 Carton 12pack | 总价: 8.4|总数量：12pack | 单位价: 0.7 单位： ea | Promo: 1
+[Egg] Henergy Eggs Cage Free Size 7 Carton 12pack | 总价: 9.4|总数量：12pack | 单位价: 0.78 单位： ea | Promo: 1
+[Egg] Henergy Eggs Cage Free Size 6 Carton 12pack | 总价: 10.5|总数量：12pack | 单位价: 0.88 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Mixed Grade Carton 18pack | 总价: 15.0|总数量：18pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 10pack | 总价: 8.69|总数量：10pack | 单位价: 0.87 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Mixed Grade Carton 12pack | 总价: 8.9|总数量：12pack | 单位价: 0.74 单位： ea | Promo: 1
+[Egg] Farmer Brown Eggs Cage Free Barn Size 6 Carton 18pack | 总价: 14.99|总数量：18pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Cage Free Barn Size 7 Carton 12pack | 总价: 10.95|总数量：12pack | 单位价: 0.91 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 6pack | 总价: 6.6|总数量：6pack | 单位价: 1.1 单位： ea | Promo: 1
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 12pack | 总价: 12.35|总数量：12pack | 单位价: 1.03 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 12pack | 总价: 11.2|总数量：12pack | 单位价: 0.93 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 18pack | 总价: 17.99|总数量：18pack | 单位价: 1.0 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 12pack | 总价: 9.45|总数量：12pack | 单位价: 0.79 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 18pack | 总价: 16.5|总数量：18pack | 单位价: 0.92 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 18pack | 总价: 15.3|总数量：18pack | 单位价: 0.85 单位： ea | Promo: 0
+[Egg] Animal Welfare Foods Eggs Free Range Mixed Grade Carton 12pack | 总价: 11.65|总数量：12pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 12pack | 总价: 8.6|总数量：12pack | 单位价: 0.72 单位： ea | Promo: 0
+[Egg] Hens Choice Eggs Cage Free Mixed Grade Carton 12pack | 总价: 8.95|总数量：12pack | 单位价: 0.75 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 6 Carton 12pack | 总价: 8.45|总数量：12pack | 单位价: 0.7 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 6 Carton 18pack | 总价: 16.65|总数量：18pack | 单位价: 0.93 单位： ea | Promo: 0
+[Egg] Hens Choice Eggs Barn Mixed Grade Carton 6pack | 总价: 5.45|总数量：6pack | 单位价: 0.91 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 6pack | 总价: 6.3|总数量：6pack | 单位价: 1.05 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Mixed Grade Carton 6pack | 总价: 5.2|总数量：6pack | 单位价: 0.87 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 7 Carton 12pack | 总价: 12.5|总数量：12pack | 单位价: 1.04 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 8 Carton 10pack | 总价: 10.0|总数量：10pack | 单位价: 1.0 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 8 Carton 10pack | 总价: 11.5|总数量：10pack | 单位价: 1.15 单位： ea | Promo: 0
+[Egg] Natural Spca Eggs Free Range Carton 6pack | 总价: 6.85|总数量：6pack | 单位价: 1.14 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 6pack | 总价: 5.5|总数量：6pack | 单位价: 0.92 单位： ea | Promo: 0
+[Egg] Natural Spca Eggs Free Range Carton 12pack | 总价: 10.2|总数量：12pack | 单位价: 0.85 单位： ea | Promo: 1
+[Egg] Woodland Eggs Free Range Size 8 Carton 6pack | 总价: 7.25|总数量：6pack | 单位价: 1.21 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 7 Carton 6pack | 总价: 6.4|总数量：6pack | 单位价: 1.07 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 18pack | 总价: 13.2|总数量：18pack | 单位价: 0.73 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 8 Carton 10pack | 总价: 11.2|总数量：10pack | 单位价: 1.12 单位： ea | Promo: 0
+[Egg] Bowalley Eggs Free Range Mixed Grade Carton 10pack | 总价: 7.1|总数量：10pack | 单位价: 0.71 单位： ea | Promo: 1
+[Egg] Animal Welfare Foods Eggs Free Range Mixed Grade Carton 6pack | 总价: 6.49|总数量：6pack | 单位价: 1.08 单位： ea | Promo: 0
+[Egg] New Day Eggs Free Range Size 7 Carton 10pack | 总价: 8.9|总数量：10pack | 单位价: 0.89 单位： ea | Promo: 1
+[Egg] Farmer Brown Eggs Colony Size 8 Carton 10pack | 总价: 8.45|总数量：10pack | 单位价: 0.85 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 8 Carton 6pack | 总价: 6.49|总数量：6pack | 单位价: 1.08 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 6pack | 总价: 5.79|总数量：6pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 8 Carton 6pack | 总价: 6.45|总数量：6pack | 单位价: 1.08 单位： ea | Promo: 0
+分类 [Egg] 商品信息打印完毕
+
+
+ 正在爬取分类：Milk - https://www.woolworths.co.nz/shop/browse/fridge-deli/milk/full-cream-milk
+[Milk] Woolworths Milk Standard Bottle 3L | 总价: 6.65|总数量：3l | 单位价: 2.22 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Bottle 2L | 总价: 4.38|总数量：2l | 单位价: 2.19 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Bottle 1L | 总价: 2.95|总数量：1l | 单位价: 2.95 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 2L | 总价: 5.64|总数量：2l | 单位价: 2.82 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 1L | 总价: 3.39|总数量：1l | 单位价: 3.39 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 2L | 总价: 5.58|总数量：2l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 1L | 总价: 3.38|总数量：1l | 单位价: 3.38 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Farmhouse- Full Cream Bottle 2L | 总价: 6.2|总数量：2l | 单位价: 3.1 单位： L | Promo: 1
+[Milk] Meadow Fresh Milk Standard Original Carton 300mL | 总价: 1.64|总数量：300ml | 单位价: 5.47 单位： L | Promo: 0
+[Milk] Anchor A2 Milk Standard Blue Bottle 2L | 总价: 7.48|总数量：2l | 单位价: 3.74 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Organic Homogenised Bottle 1.5L | 总价: 7.39|总数量：1.5l | 单位价: 4.93 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Organic Non-Homogenised Bottle 1.5L | 总价: 7.39|总数量：1.5l | 单位价: 4.93 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 3L | 总价: 8.38|总数量：3l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Homogenised Bottle 750mL | 总价: 3.85|总数量：750ml | 单位价: 5.13 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Jersey Non Homogenised Bottle 1.5L | 总价: 6.75|总数量：1.5l | 单位价: 4.5 单位： L | Promo: 0
+[Milk] Macro Milk Standard Organic Full Cream Bottle 1L | 总价: 5.1|总数量：1l | 单位价: 5.1 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Non Homogenised Bottle 1L | 总价: 3.99|总数量：1l | 单位价: 3.99 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Jersey Homogenised Bottle 1.5L | 总价: 6.75|总数量：1.5l | 单位价: 4.5 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Carton 600mL | 总价: 2.69|总数量：600ml | 单位价: 4.48 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk A2 Protein Homogenised Bottle 1.5L | 总价: 7.25|总数量：1.5l | 单位价: 4.83 单位： L | Promo: 0
+[Milk] Naturalea Organic Milk Organic Whole Carton 1L | 总价: 4.88|总数量：1l | 单位价: 4.88 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Standard Homogenised Bottle 1.5L | 总价: 6.65|总数量：1.5l | 单位价: 4.43 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Standard Non Homogenised Bottle 1.5L | 总价: 6.65|总数量：1.5l | 单位价: 4.43 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Non Homogenised Bottle 750mL | 总价: 3.85|总数量：750ml | 单位价: 5.13 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk & Cream Blend Half & Half 750mL | 总价: 7.52|总数量：750ml | 单位价: 10.03 单位： L | Promo: 0
+分类 [Milk] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/beef
+[Meat] Woolworths Beef Mince Value Min Order 500g | 总价: None|总数量：500g | 单位价: 18.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Premium Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Prime Min Order 500g | 总价: None|总数量：500g | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Rump Steak Grass Fed Min Order 500g | 总价: None|总数量：500g | 单位价: 28.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Classic Beef 450g Tray 6pack | 总价: 8.0|总数量：6pack | 单位价: 17.78 单位： kg | Promo: 0
+[Meat] Hellers Sausages Old Fashioned Beef 6pack | 总价: 11.95|总数量：6pack | 单位价: 24.9 单位： kg | Promo: 0
+[Meat] Hellers Burger Patties Mini Beef 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Sirloin Steak Porterhouse Grass Fed Large Tray Min Order 650g | 总价: None|总数量：650g | 单位价: 37.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Large Tray Value Pk Min Order 1kg | 总价: None|总数量：1kg | 单位价: 18.9 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Beef Stir-Fry 350g | 总价: 11.6|总数量：350g | 单位价: 33.14 单位： kg | Promo: 1
+[Meat] Woolworths NZ Sausages Beef Breakfast 375g Tray 10pack | 总价: 8.0|总数量：10pack | 单位价: 21.33 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Honest Beef Burgers With Smoky Caramelized Onion 2 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Beef Eye Fillet Steak 300g | 总价: 20.7|总数量：300g | 单位价: 69.0 单位： kg | Promo: 1
+[Meat] Woolworths NZ Beef Chuck Steak Diced Grass Fed 340g Tray | 总价: 8.0|总数量：340g | 单位价: 23.53 单位： kg | Promo: 0
+[Meat] Woolworths NZ Corned Beef Silverside Grass Fed Min Order 1kg | 总价: None|总数量：1kg | 单位价: 12.9 单位： kg | Promo: 1
+[Meat] Woolworths NZ Beef Schnitzel 2pack Grass Fed Small Tray Min Order 250g | 总价: None|总数量：250g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths Sausages Angus Beef 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Rump Steak Whole Min Order 5kg | 总价: None|总数量：5kg | 单位价: 23.9 单位： kg | Promo: 0
+[Meat] Hellers Burger Patties Angus 454g 4pack | 总价: 14.4|总数量：4pack | 单位价: 31.72 单位： kg | Promo: 0
+[Meat] Meat Street Beef Grill Steaks 3pk 360g | 总价: 8.0|总数量：360g | 单位价: 22.22 单位： kg | Promo: 0
+[Meat] Woolworths Scotch Fillet Steak Rib Eye Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 43.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Cross Cut Blade Steak Grass Fed Medium Tray Min Order 700g | 总价: None|总数量：700g | 单位价: 24.6 单位： kg | Promo: 0
+[Meat] Meat Street Burger Patties Classic Beef 320g 4pack | 总价: 8.0|总数量：4pack | 单位价: 25.0 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Mince Premium NZ Min Order 600g | 总价: None|总数量：600g | 单位价: 27.1 单位： kg | Promo: 1
+[Meat] Woolworths NZ Beef Schnitzel Crumbed 2pack Grass Fed Min Order 300g | 总价: None|总数量：300g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Honest Beef & Lamb Burgers With Manuka Smoked Salt 4 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths Scotch Fillet Rib Eye Steak Large Tray | 总价: None|总数量：NA | 单位价: 43.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Spicy Chorizo Style 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Beef Mince Prime Large Tray 700g Min Order | 总价: None|总数量：700g | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Woolworths Meatballs Pork & Beef 400g | 总价: 8.9|总数量：400g | 单位价: 22.25 单位： kg | Promo: 1
+[Meat] Woolworths Sausages Angus Beef Hickory 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Cheesy Beef 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Burger Patties Prime 400g 4pack | 总价: 12.95|总数量：4pack | 单位价: 32.38 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Eye Fillet Steak Finest NZ 300g-500g | 总价: None|总数量：500g | 单位价: 70.5 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Beef Medallions 400g | 总价: 18.99|总数量：400g | 单位价: 47.48 单位： kg | Promo: 0
+[Meat] Hellers Meatballs Pork 400g | 总价: 12.4|总数量：400g | 单位价: 31.0 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Stir Fry Premium Grass Fed Min Order 200g | 总价: None|总数量：200g | 单位价: 30.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Scotch Fillet Steak Whole Min Order 3.5kg | 总价: None|总数量：3.5kg | 单位价: 39.9 单位： kg | Promo: 0
+[Meat] Meat Street Beef Grill Sticks Steakhouse 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Chuck Steak Grass Fed Medium Tray Min Order 700g | 总价: None|总数量：700g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Schnitzel 8pack Grass Fed Min Order 800g | 总价: None|总数量：800g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Bbq Steak Tenderised Marinated Grass Fed Min Order 900g | 总价: None|总数量：900g | 单位价: 29.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Eye Fillet Steak Whole Min Order 2kg | 总价: None|总数量：2kg | 单位价: 49.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Diced Premium Grass Fed Min Order 650g | 总价: None|总数量：650g | 单位价: 30.5 单位： kg | Promo: 0
+[Meat] Beak & Sons Beef Casserole Beef & Ale 600g | 总价: 14.99|总数量：600g | 单位价: 24.98 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Bbq Steak Tenderised Grass Fed Min Order 900g | 总价: None|总数量：900g | 单位价: 29.5 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Mince Premium 350g | 总价: 7.65|总数量：350g | 单位价: 21.86 单位： kg | Promo: 1
+[Meat] Beak & Sons Beef Brisket Bourbon Prepacked 600g | 总价: 22.5|总数量：600g | 单位价: 37.5 单位： kg | Promo: 1
+分类 [Meat] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb
+[Meat] Hellers Sausages London Pride 6pack | 总价: 10.95|总数量：6pack | 单位价: 22.81 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Frozen Bone In Min Order 2.7kg | 总价: None|总数量：2.7kg | 单位价: 17.9 单位： kg | Promo: 0
+[Meat] Hellers Sausages NZ Lamb & Thyme 6pack | 总价: 10.75|总数量：6pack | 单位价: 25.6 单位： kg | Promo: 1
+[Meat] Woolworths Boneless Lamb Leg Frozen Min Order 1.4kg | 总价: None|总数量：1.4kg | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Meat Street Lamb Grill Sticks Doner Kebab 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Lamb Steaks 220g | 总价: 13.95|总数量：220g | 单位价: 63.41 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Lamb Herb & Garlic 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Chops Shoulder Bbq 2 Piece Min Order 500g | 总价: None|总数量：500g | 单位价: 16.9 单位： kg | Promo: 1
+[Meat] Meat Street Lamb Grill Steaks 3pk 360g | 总价: 8.0|总数量：360g | 单位价: 22.22 单位： kg | Promo: 0
+[Meat] Meat Street Lamb Grill Sticks Oriental Mint 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Mince Prime Medium Tray Min Order 400g | 总价: None|总数量：400g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Loin Medium Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Chops Shoulder Marinated Min Order 500g | 总价: None|总数量：500g | 单位价: 16.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Roast Leg | 总价: None|总数量：NA | 单位价: 23.95 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterflied 400g | 总价: 21.3|总数量：400g | 单位价: 53.25 单位： kg | Promo: 0
+[Meat] Hellers Sausages New Yorker Porker 6pack | 总价: 10.95|总数量：6pack | 单位价: 22.81 单位： kg | Promo: 0
+[Meat] Woolworths Sausages Lamb, Manuka Honey & Rosemary 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Steaks Boneless Leg Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 34.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Loin Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Diced Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 38.5 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Neck Medium Tray Min Order 800g | 总价: None|总数量：800g | 单位价: 21.5 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterfly | 总价: None|总数量：NA | 单位价: 39.9 单位： kg | Promo: 0
+[Meat] Beak & Sons Lamb Shanks Garlic & Rosemary Min Order 750g | 总价: None|总数量：750g | 单位价: 30.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Knuckles Gourmet Medium Pk Min Order 800g | 总价: None|总数量：800g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Knuckles Gourmet 2 Pce Vac Pack Min Order 700g | 总价: None|总数量：700g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Spare Ribs Large Tray Min Order 800g | 总价: None|总数量：800g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Rack NZ Skin On | 总价: None|总数量：NA | 单位价: 49.95 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Roast Forequarter Rolled Min Order 1.4kg | 总价: None|总数量：1.4kg | 单位价: 30.0 单位： kg | Promo: 0
+分类 [Meat] 商品信息打印完毕
+
+ 切换到门店：Woolworths Church Corner
+
+ 正在爬取分类：Egg - https://www.woolworths.co.nz/shop/browse/pantry/eggs
+[Egg] Woodland Eggs Free Range Size 7 Carton 10pack | 总价: 8.9|总数量：10pack | 单位价: 0.89 单位： ea | Promo: 1
+[Egg] Woodland Eggs Free Range Size 6 Carton 10pack | 总价: 9.65|总数量：10pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Mixed Grade Tray 20pack | 总价: 15.2|总数量：20pack | 单位价: 0.76 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Size 6 Carton 18pack | 总价: 13.0|总数量：18pack | 单位价: 0.72 单位： ea | Promo: 1
+[Egg] Woolworths Eggs Barn Mixed Grade Carton 12pack | 总价: 8.5|总数量：12pack | 单位价: 0.71 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Mixed Grade Carton 12pack | 总价: 9.9|总数量：12pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Cage Free Barn Size 6 Carton 12pack | 总价: 8.4|总数量：12pack | 单位价: 0.7 单位： ea | Promo: 1
+[Egg] Henergy Eggs Cage Free Size 7 Carton 12pack | 总价: 9.4|总数量：12pack | 单位价: 0.78 单位： ea | Promo: 1
+[Egg] Henergy Eggs Cage Free Size 6 Carton 12pack | 总价: 10.5|总数量：12pack | 单位价: 0.88 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Mixed Grade Carton 18pack | 总价: 15.0|总数量：18pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Size 7 Carton 18pack | 总价: 15.5|总数量：18pack | 单位价: 0.86 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 10pack | 总价: 8.69|总数量：10pack | 单位价: 0.87 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Mixed Grade Carton 12pack | 总价: 8.9|总数量：12pack | 单位价: 0.74 单位： ea | Promo: 1
+[Egg] Farmer Brown Eggs Cage Free Barn Size 6 Carton 18pack | 总价: 14.99|总数量：18pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Cage Free Barn Size 7 Carton 12pack | 总价: 10.95|总数量：12pack | 单位价: 0.91 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 6pack | 总价: 6.5|总数量：6pack | 单位价: 1.08 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 6pack | 总价: 6.6|总数量：6pack | 单位价: 1.1 单位： ea | Promo: 1
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 12pack | 总价: 12.35|总数量：12pack | 单位价: 1.03 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 12pack | 总价: 11.2|总数量：12pack | 单位价: 0.93 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 18pack | 总价: 17.99|总数量：18pack | 单位价: 1.0 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 12pack | 总价: 9.45|总数量：12pack | 单位价: 0.79 单位： ea | Promo: 0
+[Egg] New Day Eggs Free Range Mixed Grade Carton 12pack | 总价: 11.45|总数量：12pack | 单位价: 0.95 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 18pack | 总价: 16.5|总数量：18pack | 单位价: 0.92 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 18pack | 总价: 15.3|总数量：18pack | 单位价: 0.85 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 7 Carton 6pack | 总价: 6.69|总数量：6pack | 单位价: 1.12 单位： ea | Promo: 0
+[Egg] Animal Welfare Foods Eggs Free Range Mixed Grade Carton 12pack | 总价: 11.65|总数量：12pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 12pack | 总价: 8.6|总数量：12pack | 单位价: 0.72 单位： ea | Promo: 0
+[Egg] Hens Choice Eggs Cage Free Mixed Grade Carton 12pack | 总价: 8.95|总数量：12pack | 单位价: 0.75 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 6 Carton 12pack | 总价: 8.45|总数量：12pack | 单位价: 0.7 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 6 Carton 18pack | 总价: 16.65|总数量：18pack | 单位价: 0.93 单位： ea | Promo: 0
+[Egg] Hens Choice Eggs Barn Mixed Grade Carton 6pack | 总价: 5.45|总数量：6pack | 单位价: 0.91 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 6pack | 总价: 6.3|总数量：6pack | 单位价: 1.05 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Mixed Grade Carton 6pack | 总价: 5.2|总数量：6pack | 单位价: 0.87 单位： ea | Promo: 0
+[Egg] Wholesome Barn Eggs Cage Free Size 7 Carton 12pack | 总价: 9.95|总数量：12pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 7 Carton 12pack | 总价: 12.5|总数量：12pack | 单位价: 1.04 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Jumbo Carton 10pack | 总价: 8.5|总数量：10pack | 单位价: 0.85 单位： ea | Promo: 1
+[Egg] Woolworths Eggs Barn Size 8 Carton 10pack | 总价: 10.0|总数量：10pack | 单位价: 1.0 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 8 Carton 10pack | 总价: 11.5|总数量：10pack | 单位价: 1.15 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 6 Carton 18pack | 总价: 12.25|总数量：18pack | 单位价: 0.68 单位： ea | Promo: 0
+[Egg] Natural Spca Eggs Free Range Carton 6pack | 总价: 6.85|总数量：6pack | 单位价: 1.14 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 6pack | 总价: 5.5|总数量：6pack | 单位价: 0.92 单位： ea | Promo: 0
+[Egg] Natural Spca Eggs Free Range Carton 12pack | 总价: 10.2|总数量：12pack | 单位价: 0.85 单位： ea | Promo: 1
+[Egg] Woodland Eggs Free Range Size 8 Carton 6pack | 总价: 7.25|总数量：6pack | 单位价: 1.21 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 8 Carton 10pack | 总价: 11.99|总数量：10pack | 单位价: 1.2 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 7 Carton 6pack | 总价: 6.4|总数量：6pack | 单位价: 1.07 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 18pack | 总价: 13.2|总数量：18pack | 单位价: 0.73 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 8 Carton 10pack | 总价: 11.2|总数量：10pack | 单位价: 1.12 单位： ea | Promo: 0
+[Egg] Bowalley Eggs Free Range Mixed Grade Carton 10pack | 总价: 7.1|总数量：10pack | 单位价: 0.71 单位： ea | Promo: 1
+分类 [Egg] 商品信息打印完毕
+
+
+ 正在爬取分类：Milk - https://www.woolworths.co.nz/shop/browse/fridge-deli/milk/full-cream-milk
+[Milk] Woolworths Milk Standard Bottle 3L | 总价: 6.65|总数量：3l | 单位价: 2.22 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Bottle 2L | 总价: 4.38|总数量：2l | 单位价: 2.19 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Bottle 1L | 总价: 2.95|总数量：1l | 单位价: 2.95 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 2L | 总价: 5.64|总数量：2l | 单位价: 2.82 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 1L | 总价: 3.39|总数量：1l | 单位价: 3.39 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 3L | 总价: 8.36|总数量：3l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 2L | 总价: 5.58|总数量：2l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Fresha Valley Milk Standard A2 Bottle 2L | 总价: 6.57|总数量：2l | 单位价: 3.29 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 1L | 总价: 3.38|总数量：1l | 单位价: 3.38 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Farmhouse- Full Cream Bottle 2L | 总价: 6.2|总数量：2l | 单位价: 3.1 单位： L | Promo: 1
+[Milk] Meadow Fresh Milk Standard Original Carton 300mL | 总价: 1.64|总数量：300ml | 单位价: 5.47 单位： L | Promo: 0
+[Milk] Anchor A2 Milk Standard Blue Bottle 2L | 总价: 7.48|总数量：2l | 单位价: 3.74 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Organic Homogenised Bottle 1.5L | 总价: 7.39|总数量：1.5l | 单位价: 4.93 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Organic Non-Homogenised Bottle 1.5L | 总价: 7.39|总数量：1.5l | 单位价: 4.93 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 3L | 总价: 8.38|总数量：3l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Homogenised Bottle 750mL | 总价: 3.85|总数量：750ml | 单位价: 5.13 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Jersey Non Homogenised Bottle 1.5L | 总价: 6.75|总数量：1.5l | 单位价: 4.5 单位： L | Promo: 0
+[Milk] Macro Milk Standard Organic Full Cream Bottle 1L | 总价: 5.1|总数量：1l | 单位价: 5.1 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Non Homogenised Bottle 1L | 总价: 3.99|总数量：1l | 单位价: 3.99 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Jersey Homogenised Bottle 1.5L | 总价: 6.75|总数量：1.5l | 单位价: 4.5 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Organic Standard Bottle 2L | 总价: 6.93|总数量：2l | 单位价: 3.47 单位： L | Promo: 1
+[Milk] Meadow Fresh Milk Standard Original Carton 600mL | 总价: 2.69|总数量：600ml | 单位价: 4.48 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk A2 Protein Homogenised Bottle 1.5L | 总价: 7.25|总数量：1.5l | 单位价: 4.83 单位： L | Promo: 0
+[Milk] Naturalea Organic Milk Organic Whole Carton 1L | 总价: 4.88|总数量：1l | 单位价: 4.88 单位： L | Promo: 0
+[Milk] Fresha Valley Milk Barista Bottle 2L | 总价: 5.49|总数量：2l | 单位价: 2.75 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Standard Homogenised Bottle 1.5L | 总价: 6.65|总数量：1.5l | 单位价: 4.43 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Standard Non Homogenised Bottle 1.5L | 总价: 6.65|总数量：1.5l | 单位价: 4.43 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Homogenised Pure Milk Bottle 1.5L | 总价: 7.59|总数量：1.5l | 单位价: 5.06 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Non Homogenised Bottle 750mL | 总价: 3.85|总数量：750ml | 单位价: 5.13 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk & Cream Blend Half & Half 750mL | 总价: 7.52|总数量：750ml | 单位价: 10.03 单位： L | Promo: 0
+分类 [Milk] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/beef
+[Meat] Woolworths Beef Mince Value Min Order 500g | 总价: None|总数量：500g | 单位价: 18.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Premium Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Prime Min Order 500g | 总价: None|总数量：500g | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Rump Steak Grass Fed Min Order 500g | 总价: None|总数量：500g | 单位价: 28.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Classic Beef 450g Tray 6pack | 总价: 8.0|总数量：6pack | 单位价: 17.78 单位： kg | Promo: 0
+[Meat] Hellers Sausages Old Fashioned Beef 6pack | 总价: 11.95|总数量：6pack | 单位价: 24.9 单位： kg | Promo: 0
+[Meat] Hellers Burger Patties Mini Beef 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Sirloin Steak Porterhouse Grass Fed Large Tray Min Order 650g | 总价: None|总数量：650g | 单位价: 37.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Large Tray Value Pk Min Order 1kg | 总价: None|总数量：1kg | 单位价: 18.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Beef Breakfast 375g Tray 10pack | 总价: 8.0|总数量：10pack | 单位价: 21.33 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Honest Beef Burgers With Smoky Caramelized Onion 2 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Chuck Steak Diced Grass Fed 340g Tray | 总价: 8.0|总数量：340g | 单位价: 23.53 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Beef Flat-Iron Steaks 220g | 总价: 13.9|总数量：220g | 单位价: 63.18 单位： kg | Promo: 0
+[Meat] Woolworths NZ Corned Beef Silverside Grass Fed Min Order 1kg | 总价: None|总数量：1kg | 单位价: 12.9 单位： kg | Promo: 1
+[Meat] Woolworths NZ Beef Schnitzel 2pack Grass Fed Small Tray Min Order 250g | 总价: None|总数量：250g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths Sausages Angus Beef 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Rump Steak Whole Min Order 5kg | 总价: None|总数量：5kg | 单位价: 23.9 单位： kg | Promo: 0
+[Meat] Hellers Burger Patties Angus 454g 4pack | 总价: 14.4|总数量：4pack | 单位价: 31.72 单位： kg | Promo: 0
+[Meat] Meat Street Beef Grill Steaks 3pk 360g | 总价: 8.0|总数量：360g | 单位价: 22.22 单位： kg | Promo: 0
+[Meat] Woolworths Scotch Fillet Steak Rib Eye Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 43.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Cross Cut Blade Steak Grass Fed Medium Tray Min Order 700g | 总价: None|总数量：700g | 单位价: 24.6 单位： kg | Promo: 0
+[Meat] Meat Street Burger Patties Classic Beef 320g 4pack | 总价: 8.0|总数量：4pack | 单位价: 25.0 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Mince Premium NZ Min Order 600g | 总价: None|总数量：600g | 单位价: 27.1 单位： kg | Promo: 1
+[Meat] Silver Fern Farms Honest Lamb Burgers With Apple & Mint 2 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Schnitzel Crumbed 2pack Grass Fed Min Order 300g | 总价: None|总数量：300g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Honest Beef & Lamb Burgers With Manuka Smoked Salt 4 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths Scotch Fillet Rib Eye Steak Large Tray | 总价: None|总数量：NA | 单位价: 43.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Spicy Chorizo Style 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Beef Mince Prime Large Tray 700g Min Order | 总价: None|总数量：700g | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Woolworths Meatballs Pork & Beef 400g | 总价: 8.9|总数量：400g | 单位价: 22.25 单位： kg | Promo: 1
+[Meat] Woolworths Sausages Angus Beef Hickory 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Cheesy Beef 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Burger Patties Prime 400g 4pack | 总价: 12.95|总数量：4pack | 单位价: 32.38 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Eye Fillet Steak Finest NZ 300g-500g | 总价: None|总数量：500g | 单位价: 70.5 单位： kg | Promo: 0
+[Meat] Hellers Meatballs Pork 400g | 总价: 12.4|总数量：400g | 单位价: 31.0 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Stir Fry Premium Grass Fed Min Order 200g | 总价: None|总数量：200g | 单位价: 30.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Scotch Fillet Steak Whole Min Order 3.5kg | 总价: None|总数量：3.5kg | 单位价: 39.9 单位： kg | Promo: 0
+[Meat] Meat Street Beef Grill Sticks Steakhouse 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Chuck Steak Grass Fed Medium Tray Min Order 700g | 总价: None|总数量：700g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Schnitzel 8pack Grass Fed Min Order 800g | 总价: None|总数量：800g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Bbq Steak Tenderised Marinated Grass Fed Min Order 900g | 总价: None|总数量：900g | 单位价: 29.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Eye Fillet Steak Whole Min Order 2kg | 总价: None|总数量：2kg | 单位价: 49.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Diced Premium Grass Fed Min Order 650g | 总价: None|总数量：650g | 单位价: 30.5 单位： kg | Promo: 0
+[Meat] Beak & Sons Beef Casserole Beef & Ale 600g | 总价: 14.99|总数量：600g | 单位价: 24.98 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Bbq Steak Tenderised Grass Fed Min Order 900g | 总价: None|总数量：900g | 单位价: 29.5 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Mince Premium 350g | 总价: 7.65|总数量：350g | 单位价: 21.86 单位： kg | Promo: 1
+[Meat] Woolworths NZ Chicken Breast Burgers Spicy Southern Style Tray 2pack | 总价: 6.9|总数量：2pack | 单位价: 26.54 单位： kg | Promo: 1
+[Meat] Beak & Sons Beef Brisket Bourbon Prepacked 600g | 总价: 22.5|总数量：600g | 单位价: 37.5 单位： kg | Promo: 1
+分类 [Meat] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb
+[Meat] Hellers Sausages London Pride 6pack | 总价: 10.95|总数量：6pack | 单位价: 22.81 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Frozen Bone In Min Order 2.7kg | 总价: None|总数量：2.7kg | 单位价: 17.9 单位： kg | Promo: 0
+[Meat] Hellers Sausages NZ Lamb & Thyme 6pack | 总价: 10.75|总数量：6pack | 单位价: 25.6 单位： kg | Promo: 1
+[Meat] Woolworths Boneless Lamb Leg Frozen Min Order 1.4kg | 总价: None|总数量：1.4kg | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Meat Street Lamb Grill Sticks Doner Kebab 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Lamb Herb & Garlic 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Chops Shoulder Bbq 2 Piece Min Order 500g | 总价: None|总数量：500g | 单位价: 16.9 单位： kg | Promo: 1
+[Meat] Meat Street Lamb Grill Steaks 3pk 360g | 总价: 8.0|总数量：360g | 单位价: 22.22 单位： kg | Promo: 0
+[Meat] Meat Street Lamb Grill Sticks Oriental Mint 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Mince Prime Medium Tray Min Order 400g | 总价: None|总数量：400g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Loin Medium Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Chops Shoulder Marinated Min Order 500g | 总价: None|总数量：500g | 单位价: 16.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Roast Leg | 总价: None|总数量：NA | 单位价: 23.95 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterflied Rosemary & Garlic Prepacked 400g | 总价: 21.3|总数量：400g | 单位价: 53.25 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterflied 400g | 总价: 21.3|总数量：400g | 单位价: 53.25 单位： kg | Promo: 0
+[Meat] Hellers Sausages New Yorker Porker 6pack | 总价: 10.95|总数量：6pack | 单位价: 22.81 单位： kg | Promo: 0
+[Meat] Woolworths Sausages Lamb, Manuka Honey & Rosemary 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Steaks Boneless Leg Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 34.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Loin Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Diced Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 38.5 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Neck Medium Tray Min Order 800g | 总价: None|总数量：800g | 单位价: 21.5 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterfly | 总价: None|总数量：NA | 单位价: 39.9 单位： kg | Promo: 0
+[Meat] Beak & Sons Lamb Shanks Garlic & Rosemary Min Order 750g | 总价: None|总数量：750g | 单位价: 30.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Knuckles Gourmet Medium Pk Min Order 800g | 总价: None|总数量：800g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Knuckles Gourmet 2 Pce Vac Pack Min Order 700g | 总价: None|总数量：700g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Spare Ribs Large Tray Min Order 800g | 总价: None|总数量：800g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Rack NZ Skin On | 总价: None|总数量：NA | 单位价: 49.95 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Roast Forequarter Rolled Min Order 1.4kg | 总价: None|总数量：1.4kg | 单位价: 30.0 单位： kg | Promo: 0
+分类 [Meat] 商品信息打印完毕
+
+ 切换到门店：Woolworths Moorhouse Ave
+
+ 正在爬取分类：Egg - https://www.woolworths.co.nz/shop/browse/pantry/eggs
+[Egg] Woodland Eggs Free Range Size 7 Carton 10pack | 总价: 8.9|总数量：10pack | 单位价: 0.89 单位： ea | Promo: 1
+[Egg] Woodland Eggs Free Range Size 6 Carton 10pack | 总价: 9.65|总数量：10pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Mixed Grade Tray 20pack | 总价: 15.2|总数量：20pack | 单位价: 0.76 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Size 6 Carton 18pack | 总价: 13.0|总数量：18pack | 单位价: 0.72 单位： ea | Promo: 1
+[Egg] Woolworths Eggs Barn Mixed Grade Carton 12pack | 总价: 8.5|总数量：12pack | 单位价: 0.71 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Mixed Grade Carton 12pack | 总价: 9.9|总数量：12pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Cage Free Barn Size 6 Carton 12pack | 总价: 8.4|总数量：12pack | 单位价: 0.7 单位： ea | Promo: 1
+[Egg] Henergy Eggs Cage Free Size 7 Carton 12pack | 总价: 9.4|总数量：12pack | 单位价: 0.78 单位： ea | Promo: 1
+[Egg] Henergy Eggs Cage Free Size 6 Carton 12pack | 总价: 10.5|总数量：12pack | 单位价: 0.88 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Mixed Grade Carton 18pack | 总价: 15.0|总数量：18pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Size 7 Carton 18pack | 总价: 15.5|总数量：18pack | 单位价: 0.86 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 10pack | 总价: 8.69|总数量：10pack | 单位价: 0.87 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Mixed Grade Carton 12pack | 总价: 8.9|总数量：12pack | 单位价: 0.74 单位： ea | Promo: 1
+[Egg] Farmer Brown Eggs Cage Free Barn Size 6 Carton 18pack | 总价: 14.99|总数量：18pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Cage Free Barn Size 7 Carton 12pack | 总价: 10.95|总数量：12pack | 单位价: 0.91 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 6pack | 总价: 6.5|总数量：6pack | 单位价: 1.08 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 6pack | 总价: 6.6|总数量：6pack | 单位价: 1.1 单位： ea | Promo: 1
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 12pack | 总价: 12.35|总数量：12pack | 单位价: 1.03 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 12pack | 总价: 11.2|总数量：12pack | 单位价: 0.93 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Mixed Grade Carton 18pack | 总价: 17.99|总数量：18pack | 单位价: 1.0 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 12pack | 总价: 9.45|总数量：12pack | 单位价: 0.79 单位： ea | Promo: 0
+[Egg] New Day Eggs Free Range Mixed Grade Carton 12pack | 总价: 11.45|总数量：12pack | 单位价: 0.95 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 18pack | 总价: 16.5|总数量：18pack | 单位价: 0.92 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 18pack | 总价: 15.3|总数量：18pack | 单位价: 0.85 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 7 Carton 6pack | 总价: 6.69|总数量：6pack | 单位价: 1.12 单位： ea | Promo: 0
+[Egg] Animal Welfare Foods Eggs Free Range Mixed Grade Carton 12pack | 总价: 11.65|总数量：12pack | 单位价: 0.97 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 12pack | 总价: 8.6|总数量：12pack | 单位价: 0.72 单位： ea | Promo: 0
+[Egg] Hens Choice Eggs Cage Free Mixed Grade Carton 12pack | 总价: 8.95|总数量：12pack | 单位价: 0.75 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 6 Carton 12pack | 总价: 8.45|总数量：12pack | 单位价: 0.7 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 6 Carton 18pack | 总价: 16.65|总数量：18pack | 单位价: 0.93 单位： ea | Promo: 0
+[Egg] Hens Choice Eggs Barn Mixed Grade Carton 6pack | 总价: 5.45|总数量：6pack | 单位价: 0.91 单位： ea | Promo: 0
+[Egg] Otaika Valley Eggs Free Range Size 7 Carton 18pack | 总价: 18.75|总数量：18pack | 单位价: 1.04 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 7 Carton 6pack | 总价: 6.3|总数量：6pack | 单位价: 1.05 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Mixed Grade Carton 6pack | 总价: 5.2|总数量：6pack | 单位价: 0.87 单位： ea | Promo: 0
+[Egg] Wholesome Barn Eggs Cage Free Size 7 Carton 12pack | 总价: 9.95|总数量：12pack | 单位价: 0.83 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 7 Carton 12pack | 总价: 12.5|总数量：12pack | 单位价: 1.04 单位： ea | Promo: 0
+[Egg] Henergy Eggs Cage Free Jumbo Carton 10pack | 总价: 8.5|总数量：10pack | 单位价: 0.85 单位： ea | Promo: 1
+[Egg] Woolworths Eggs Barn Size 8 Carton 10pack | 总价: 10.0|总数量：10pack | 单位价: 1.0 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 8 Carton 10pack | 总价: 11.5|总数量：10pack | 单位价: 1.15 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 6 Carton 18pack | 总价: 12.25|总数量：18pack | 单位价: 0.68 单位： ea | Promo: 0
+[Egg] Natural Spca Eggs Free Range Carton 6pack | 总价: 6.85|总数量：6pack | 单位价: 1.14 单位： ea | Promo: 0
+[Egg] Woolworths Eggs Barn Size 7 Carton 6pack | 总价: 5.5|总数量：6pack | 单位价: 0.92 单位： ea | Promo: 0
+[Egg] Natural Spca Eggs Free Range Carton 12pack | 总价: 10.2|总数量：12pack | 单位价: 0.85 单位： ea | Promo: 1
+[Egg] Woodland Eggs Free Range Size 8 Carton 6pack | 总价: 7.25|总数量：6pack | 单位价: 1.21 单位： ea | Promo: 0
+[Egg] Woodland Eggs Free Range Size 8 Carton 10pack | 总价: 11.99|总数量：10pack | 单位价: 1.2 单位： ea | Promo: 0
+[Egg] Better Eggs Spca Eggs Free Range Size 7 Carton 6pack | 总价: 6.4|总数量：6pack | 单位价: 1.07 单位： ea | Promo: 0
+[Egg] Farmer Brown Eggs Colony Size 7 Carton 18pack | 总价: 13.2|总数量：18pack | 单位价: 0.73 单位： ea | Promo: 0
+[Egg] Macro Eggs Free Range Size 8 Carton 10pack | 总价: 11.2|总数量：10pack | 单位价: 1.12 单位： ea | Promo: 0
+分类 [Egg] 商品信息打印完毕
+
+
+ 正在爬取分类：Milk - https://www.woolworths.co.nz/shop/browse/fridge-deli/milk/full-cream-milk
+[Milk] Woolworths Milk Standard Bottle 3L | 总价: 6.65|总数量：3l | 单位价: 2.22 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Bottle 2L | 总价: 4.38|总数量：2l | 单位价: 2.19 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Bottle 1L | 总价: 2.95|总数量：1l | 单位价: 2.95 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 2L | 总价: 5.64|总数量：2l | 单位价: 2.82 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 1L | 总价: 3.39|总数量：1l | 单位价: 3.39 单位： L | Promo: 0
+[Milk] Anchor Milk Standard Blue Bottle 3L | 总价: 8.36|总数量：3l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 2L | 总价: 5.58|总数量：2l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Fresha Valley Milk Standard A2 Bottle 2L | 总价: 6.57|总数量：2l | 单位价: 3.29 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 1L | 总价: 3.38|总数量：1l | 单位价: 3.38 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Farmhouse- Full Cream Bottle 2L | 总价: 6.2|总数量：2l | 单位价: 3.1 单位： L | Promo: 1
+[Milk] Meadow Fresh Milk Standard Original Carton 300mL | 总价: 1.64|总数量：300ml | 单位价: 5.47 单位： L | Promo: 0
+[Milk] Anchor A2 Milk Standard Blue Bottle 2L | 总价: 7.48|总数量：2l | 单位价: 3.74 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Organic Homogenised Bottle 1.5L | 总价: 7.39|总数量：1.5l | 单位价: 4.93 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Standard Original Bottle 3L | 总价: 8.38|总数量：3l | 单位价: 2.79 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Homogenised Bottle 750mL | 总价: 3.85|总数量：750ml | 单位价: 5.13 单位： L | Promo: 0
+[Milk] Macro Milk Standard Organic Full Cream Bottle 1L | 总价: 5.1|总数量：1l | 单位价: 5.1 单位： L | Promo: 0
+[Milk] Woolworths Milk Standard Non Homogenised Bottle 1L | 总价: 3.99|总数量：1l | 单位价: 3.99 单位： L | Promo: 0
+[Milk] Lewis Road Creamery Milk Jersey Homogenised Bottle 1.5L | 总价: 6.75|总数量：1.5l | 单位价: 4.5 单位： L | Promo: 0
+[Milk] Meadow Fresh Milk Organic Standard Bottle 2L | 总价: 6.93|总数量：2l | 单位价: 3.47 单位： L | Promo: 1
+[Milk] Meadow Fresh Milk Standard Original Carton 600mL | 总价: 2.69|总数量：600ml | 单位价: 4.48 单位： L | Promo: 0
+[Milk] Naturalea Organic Milk Organic Whole Carton 1L | 总价: 4.88|总数量：1l | 单位价: 4.88 单位： L | Promo: 0
+[Milk] Fresha Valley Milk Barista Bottle 2L | 总价: 5.49|总数量：2l | 单位价: 2.75 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Standard Homogenised Bottle 1.5L | 总价: 6.65|总数量：1.5l | 单位价: 4.43 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Standard Non Homogenised Bottle 1.5L | 总价: 6.65|总数量：1.5l | 单位价: 4.43 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Homogenised Pure Milk Bottle 1.5L | 总价: 7.59|总数量：1.5l | 单位价: 5.06 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk Organic Non Homogenised Bottle 750mL | 总价: 3.85|总数量：750ml | 单位价: 5.13 单位： L | Promo: 0
+[Milk] Puhoi Valley Milk & Cream Blend Half & Half 750mL | 总价: 7.52|总数量：750ml | 单位价: 10.03 单位： L | Promo: 0
+分类 [Milk] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/beef
+[Meat] Woolworths Beef Mince Value Min Order 500g | 总价: None|总数量：500g | 单位价: 18.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Premium Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Prime Min Order 500g | 总价: None|总数量：500g | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] First Light Beef Mince Wagyu 400g | 总价: 10.7|总数量：400g | 单位价: 26.75 单位： kg | Promo: 1
+[Meat] Woolworths NZ Beef Rump Steak Grass Fed Min Order 500g | 总价: None|总数量：500g | 单位价: 28.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Classic Beef 450g Tray 6pack | 总价: 8.0|总数量：6pack | 单位价: 17.78 单位： kg | Promo: 0
+[Meat] Hellers Sausages Old Fashioned Beef 6pack | 总价: 11.95|总数量：6pack | 单位价: 24.9 单位： kg | Promo: 0
+[Meat] Hellers Burger Patties Mini Beef 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Sirloin Steak Porterhouse Grass Fed Large Tray Min Order 650g | 总价: None|总数量：650g | 单位价: 37.9 单位： kg | Promo: 0
+[Meat] Woolworths Beef Mince Large Tray Value Pk Min Order 1kg | 总价: None|总数量：1kg | 单位价: 18.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Beef Breakfast 375g Tray 10pack | 总价: 8.0|总数量：10pack | 单位价: 21.33 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Honest Beef Burgers With Smoky Caramelized Onion 2 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Chuck Steak Diced Grass Fed 340g Tray | 总价: 8.0|总数量：340g | 单位价: 23.53 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Beef Flat-Iron Steaks 220g | 总价: 13.9|总数量：220g | 单位价: 63.18 单位： kg | Promo: 0
+[Meat] Woolworths NZ Corned Beef Silverside Grass Fed Min Order 1kg | 总价: None|总数量：1kg | 单位价: 12.9 单位： kg | Promo: 1
+[Meat] Woolworths Beef Meatballs Grass Fed Beef NZ 20-Pack 400g | 总价: 8.9|总数量：400g | 单位价: 22.25 单位： kg | Promo: 1
+[Meat] Woolworths NZ Beef Schnitzel 2pack Grass Fed Small Tray Min Order 250g | 总价: None|总数量：250g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths Sausages Angus Beef 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Rump Steak Whole Min Order 5kg | 总价: None|总数量：5kg | 单位价: 23.9 单位： kg | Promo: 0
+[Meat] Hellers Burger Patties Angus 454g 4pack | 总价: 14.4|总数量：4pack | 单位价: 31.72 单位： kg | Promo: 0
+[Meat] Meat Street Beef Grill Steaks 3pk 360g | 总价: 8.0|总数量：360g | 单位价: 22.22 单位： kg | Promo: 0
+[Meat] First Light Sausages Wagyu Beef 420g | 总价: 14.39|总数量：420g | 单位价: 34.26 单位： kg | Promo: 0
+[Meat] Woolworths Scotch Fillet Steak Rib Eye Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 43.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Cross Cut Blade Steak Grass Fed Medium Tray Min Order 700g | 总价: None|总数量：700g | 单位价: 24.6 单位： kg | Promo: 0
+[Meat] Meat Street Burger Patties Classic Beef 320g 4pack | 总价: 8.0|总数量：4pack | 单位价: 25.0 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Mince Premium NZ Min Order 600g | 总价: None|总数量：600g | 单位价: 27.1 单位： kg | Promo: 1
+[Meat] First Light Burger Patties Wagyu Beef 400g | 总价: 12.5|总数量：400g | 单位价: 31.25 单位： kg | Promo: 1
+[Meat] Silver Fern Farms Honest Lamb Burgers With Apple & Mint 2 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Schnitzel Crumbed 2pack Grass Fed Min Order 300g | 总价: None|总数量：300g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Honest Beef & Lamb Burgers With Manuka Smoked Salt 4 Pack 500g | 总价: 14.95|总数量：500g | 单位价: 29.9 单位： kg | Promo: 0
+[Meat] Woolworths Scotch Fillet Rib Eye Steak Large Tray | 总价: None|总数量：NA | 单位价: 43.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Spicy Chorizo Style 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Beef Mince Prime Large Tray 700g Min Order | 总价: None|总数量：700g | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Woolworths Meatballs Pork & Beef 400g | 总价: 8.9|总数量：400g | 单位价: 22.25 单位： kg | Promo: 1
+[Meat] Woolworths Sausages Angus Beef Hickory 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths NZ Sausages Cheesy Beef 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Burger Patties Prime 400g 4pack | 总价: 12.95|总数量：4pack | 单位价: 32.38 单位： kg | Promo: 0
+[Meat] First Light NZ Beef Rump Steak Grass Fed Wagyu 250g Tray | 总价: 14.5|总数量：250g | 单位价: 58.0 单位： kg | Promo: 0
+[Meat] Hellers Meatballs Pork 400g | 总价: 12.4|总数量：400g | 单位价: 31.0 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Stir Fry Premium Grass Fed Min Order 200g | 总价: None|总数量：200g | 单位价: 30.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Scotch Fillet Steak Whole Min Order 3.5kg | 总价: None|总数量：3.5kg | 单位价: 39.9 单位： kg | Promo: 0
+[Meat] Meat Street Beef Grill Sticks Steakhouse 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Chuck Steak Grass Fed Medium Tray Min Order 700g | 总价: None|总数量：700g | 单位价: 27.5 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Eye Fillet Steak Whole Min Order 2kg | 总价: None|总数量：2kg | 单位价: 49.9 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Diced Premium Grass Fed Min Order 650g | 总价: None|总数量：650g | 单位价: 30.5 单位： kg | Promo: 0
+[Meat] Beak & Sons Beef Casserole Beef & Ale 600g | 总价: 14.99|总数量：600g | 单位价: 24.98 单位： kg | Promo: 0
+[Meat] Woolworths NZ Beef Bbq Steak Tenderised Grass Fed Min Order 900g | 总价: None|总数量：900g | 单位价: 29.5 单位： kg | Promo: 0
+[Meat] Woolworths Angus Beef Mince Premium 350g | 总价: 7.65|总数量：350g | 单位价: 21.86 单位： kg | Promo: 1
+分类 [Meat] 商品信息打印完毕
+
+
+ 正在爬取分类：Meat - https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb
+[Meat] Hellers Sausages London Pride 6pack | 总价: 10.95|总数量：6pack | 单位价: 22.81 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Frozen Bone In Min Order 2.7kg | 总价: None|总数量：2.7kg | 单位价: 17.9 单位： kg | Promo: 0
+[Meat] Hellers Sausages NZ Lamb & Thyme 6pack | 总价: 10.75|总数量：6pack | 单位价: 25.6 单位： kg | Promo: 1
+[Meat] Woolworths Boneless Lamb Leg Frozen Min Order 1.4kg | 总价: None|总数量：1.4kg | 单位价: 20.9 单位： kg | Promo: 0
+[Meat] Meat Street Lamb Grill Sticks Doner Kebab 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Silver Fern Farms Lamb Rumps 400g | 总价: 15.25|总数量：400g | 单位价: 38.13 单位： kg | Promo: 1
+[Meat] Woolworths NZ Sausages Lamb Herb & Garlic 450g Tray 6pack | 总价: 7.9|总数量：6pack | 单位价: 17.56 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Chops Shoulder Bbq 2 Piece Min Order 500g | 总价: None|总数量：500g | 单位价: 16.9 单位： kg | Promo: 1
+[Meat] Meat Street Lamb Grill Steaks 3pk 360g | 总价: 8.0|总数量：360g | 单位价: 22.22 单位： kg | Promo: 0
+[Meat] Meat Street Lamb Grill Sticks Oriental Mint 5pk 300g | 总价: 8.0|总数量：300g | 单位价: 26.67 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Mince Prime Medium Tray Min Order 400g | 总价: None|总数量：400g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Loin Medium Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Chops Shoulder Marinated Min Order 500g | 总价: None|总数量：500g | 单位价: 16.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Roast Leg | 总价: None|总数量：NA | 单位价: 23.95 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterflied Rosemary & Garlic Prepacked 400g | 总价: 21.3|总数量：400g | 单位价: 53.25 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterflied 400g | 总价: 21.3|总数量：400g | 单位价: 53.25 单位： kg | Promo: 0
+[Meat] Hellers Sausages New Yorker Porker 6pack | 总价: 10.95|总数量：6pack | 单位价: 22.81 单位： kg | Promo: 0
+[Meat] Woolworths Sausages Lamb, Manuka Honey & Rosemary 450g Tray 6pack | 总价: 11.5|总数量：6pack | 单位价: 25.56 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Steaks Boneless Leg Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 34.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Loin Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 24.9 单位： kg | Promo: 1
+[Meat] Woolworths Lamb Diced Small Tray Min Order 500g | 总价: None|总数量：500g | 单位价: 38.5 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Chops Neck Medium Tray Min Order 800g | 总价: None|总数量：800g | 单位价: 21.5 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Leg Butterfly | 总价: None|总数量：NA | 单位价: 39.9 单位： kg | Promo: 0
+[Meat] Beak & Sons Lamb Shanks Garlic & Rosemary Min Order 750g | 总价: None|总数量：750g | 单位价: 30.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Knuckles Gourmet Medium Pk Min Order 800g | 总价: None|总数量：800g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Knuckles Gourmet 2 Pce Vac Pack Min Order 700g | 总价: None|总数量：700g | 单位价: 26.9 单位： kg | Promo: 0
+[Meat] Woolworths Lamb Rack NZ Skin On | 总价: None|总数量：NA | 单位价: 49.95 单位： kg | Promo: 0
+分类 [Meat] 商品信息打印完毕
+
+WoolWorths data successfully collected
+====================================================================
+Exception ignored in: <function Chrome.__del__ at 0x000002235967FE20>
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+OSError: [WinError 6] 句柄无效。
+ pipeline_countdown.py 执行完成
+
+开始运行: pipeline_newworld.py
+ 爬取 Egg @ store c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+没有弹窗按钮，或点击失败，跳过
+ 插入成功: Woodland Free Range Size 7 Eggs | $7.79 | Promo: 1
+ 插入成功: Sure As Eggs Mixed Grade Eggs | $6.99 | Promo: 1
+ 插入成功: Woodland Free Range Grade 7 Eggs | $5.49 | Promo: 1
+ 插入成功: Woodland Free Range Size 6 Eggs | $9.69 | Promo: 0
+ 插入成功: Farmer Brown Cage-Free Barn Size 6 Eggs | $8.49 | Promo: 1
+ 插入成功: Woodland Free Range Grade 6 Eggs | $5.49 | Promo: 1
+ 插入成功: Sure As Eggs Size 7 Eggs | $7.99 | Promo: 0
+ 插入成功: Woodland Free Range Size 6 Eggs | $16.99 | Promo: 0
+ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $5.99 | Promo: 0
+ 插入成功: Woodland Free Range Grade 8 Eggs | $7.29 | Promo: 0
+ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $5.79 | Promo: 0
+ 插入成功: New Day Free Range Mixed Grade Eggs | $10.49 | Promo: 1
+ 插入成功: Bowalley Free Range Size 7 Eggs | $10.19 | Promo: 0
+ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+ 插入成功: Farmer Brown Barn Size 6 Eggs | $15.49 | Promo: 0
+ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $16.99 | Promo: 0
+ 插入成功: Quail Valley Free Range Size 7 Eggs | $9.49 | Promo: 0
+ 插入成功: BENZIE Free Range Mixed Size Eggs | $8.99 | Promo: 1
+ 插入成功: Betty's Barn Cage Free Barn Mixed Grade Eggs | $7.29 | Promo: 0
+ 插入成功: Golden Downs Organic Free Range Mixed Grade Eggs | $12.99 | Promo: 0
+ 插入成功: Farmer Brown Barn Cage Free Size 8 Eggs | $10.29 | Promo: 0
+ 插入成功: Zeagold Egg White Natural Protein | $14.79 | Promo: 0
+ 插入成功: Hen's Choice Cage Free Barn Eggs | $9.89 | Promo: 0
+ 插入成功: Wholesome New Zealand New Zealand Organic Mixed Grade Eggs | $13.79 | Promo: 0
+ 插入成功: Quail Valley Free Range Kilo Pack Jumbo Eggs | $14.79 | Promo: 0
+ 插入成功: Sungold Cage Free Barn Size 7 Eggs | $4.99 | Promo: 0
+ 爬取 Milk @ store c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+没有弹窗按钮，或点击失败，跳过
+ 插入成功: Value Standard Milk | $4.39 | Promo: 0
+ 插入成功: Value Standard Milk | $6.65 | Promo: 0
+ 插入成功: Pams Standard Milk | $2.95 | Promo: 0
+ 插入成功: Pams Standard Milk | $4.99 | Promo: 0
+ 插入成功: Pams Lite Milk | $4.99 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $5.59 | Promo: 0
+ 插入成功: Value Trim Milk | $4.39 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $3.39 | Promo: 0
+ 插入成功: Pams Standard Milk | $7.99 | Promo: 0
+ 插入成功: Pams Trim Milk | $2.95 | Promo: 0
+ 插入成功: Pams Calci Smart Milk | $6.29 | Promo: 0
+ 插入成功: Pams Trim Milk | $4.99 | Promo: 0
+ 插入成功: Pams Lite Milk | $2.95 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $1.65 | Promo: 0
+ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $6.75 | Promo: 0
+ 插入成功: Pams Calci Smart Milk | $3.55 | Promo: 0
+ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $3.65 | Promo: 0
+ 插入成功: Meadow Fresh Lite Fresh Milk | $5.59 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $8.39 | Promo: 0
+ 插入成功: Meadow Fresh Trim Fresh Milk | $5.59 | Promo: 0
+ 插入成功: Meadow Fresh Trim Fresh Milk | $3.39 | Promo: 0
+ 插入成功: Anchor A2 Blue Milk | $7.49 | Promo: 0
+ 插入成功: Value Trim Milk | $6.65 | Promo: 0
+ 插入成功: Meadow Fresh Lite Fresh Milk | $3.39 | Promo: 0
+ 插入成功: Pams Trim Milk | $7.99 | Promo: 0
+ 插入成功: Meadow Fresh Trim Fresh Milk | $1.65 | Promo: 0
+ 插入成功: Naturalea Organic Milk | $4.89 | Promo: 0
+ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $3.79 | Promo: 0
+ 插入成功: Meadow Fresh Cultured Buttermilk | $5.15 | Promo: 0
+ 插入成功: Meadow Fresh Organic Original Fresh Milk | $7.49 | Promo: 0
+ 插入成功: Lewis Road Creamery A2 Protein Homogenised Milk | $7.29 | Promo: 0
+ 插入成功: Anchor A2 Lite Milk | $7.49 | Promo: 0
+ 插入成功: Puhoi Valley Fresh Non Homogenised Non Organic Milk | $6.79 | Promo: 0
+ 插入成功: Lewis Road Creamery Homogenised Jersey Milk | $6.75 | Promo: 0
+ 插入成功: Lewis Road Creamery Non-Homogenised Jersey Milk | $6.75 | Promo: 0
+ 插入成功: Karikaas Cultured & Churned Buttermilk | $6.85 | Promo: 0
+ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $4.79 | Promo: 0
+ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $7.19 | Promo: 1
+ 爬取 Meat @ store c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=c6abac35-b75f-4a02-9b43-7ad5a7c7aa37
+没有弹窗按钮，或点击失败，跳过
+ 插入成功: NZ Premium Beef Mince | $21.99 | Promo: 1
+ 插入成功: Prime Beef Mince | $20.49 | Promo: 0
+ 插入成功: Beef Rump Steak | $28.29 | Promo: 0
+ 插入成功: Lamb Shoulder Chops | $19.49 | Promo: 0
+ 插入成功: NZ Beef Schnitzel | $25.99 | Promo: 1
+ 插入成功: NZ Stir Fry Beef | $28.99 | Promo: 1
+ 插入成功: NZ Diced Beef | $28.99 | Promo: 1
+ 插入成功: Lamb Leg Roast | $23.89 | Promo: 0
+ 插入成功: Beef Scotch Fillet Steak | $42.99 | Promo: 0
+ 插入成功: NZ Beef Porterhouse Steak | $36.99 | Promo: 0
+ 插入成功: Lamb Loin Chops | $28.99 | Promo: 0
+ 插入成功: Wilson Hellaby Corned Silverside | $17.89 | Promo: 0
+ 插入成功: Mega Lamb Shoulder Chops | $18.49 | Promo: 0
+ 插入成功: Lamb Steak | $34.99 | Promo: 0
+ 插入成功: Beef Fillet Steak | $63.99 | Promo: 0
+ 插入成功: NZ Beef Bolar Roast | $26.49 | Promo: 0
+ 插入成功: Lamb Butterfly Leg Roasts | $40.99 | Promo: 0
+ 插入成功: NZ Beef Blade Steak | $27.49 | Promo: 0
+ 插入成功: Mega Beef Porterhouse Steak | $35.99 | Promo: 0
+ 插入成功: NZ Beef Topside Steak | $27.49 | Promo: 0
+ 插入成功: Harris Farms Italian Shorts Beef Sausages | $7.49 | Promo: 1
+ 插入成功: NZ Beef Topside Roast | $26.99 | Promo: 0
+ 插入成功: NZ Beef Chuck Steak | $28.99 | Promo: 0
+ 插入成功: NZ Tenderised Beef Steak | $27.99 | Promo: 1
+ 插入成功: Lamb Shanks (Knuckles) | $19.99 | Promo: 0
+ 插入成功: Beef Minute Steak | $25.49 | Promo: 0
+ 插入成功: Beef Cheeks | $28.99 | Promo: 0
+ 插入成功: Beef Rump Roast | $27.29 | Promo: 0
+ 插入成功: Beef Ribeye Steak On The Bone | $39.99 | Promo: 0
+ 插入成功: Mega Beef Blade Steak | $26.49 | Promo: 0
+ 插入成功: Mega Beef Chuck Stewing Steak | $27.99 | Promo: 0
+ 插入成功: NZ Butterflied Lamb Shoulder | $31.99 | Promo: 0
+ 插入成功: Lamb Back Straps | $53.99 | Promo: 0
+ 插入成功: Beef Skirt Steak | $23.99 | Promo: 0
+ 插入成功: Fresh French Lamb Cutlets | $51.99 | Promo: 0
+ 插入成功: Mega Beef Topside Steak | $26.99 | Promo: 0
+ 插入成功: Beef Danish Roast | $19.99 | Promo: 0
+ 插入成功: Diced Lamb | $40.49 | Promo: 0
+ 插入成功: Hellers Craft Ol Smokey Beef & Brisket Smashed Burgers | $5.99 | Promo: 0
+ 插入成功: Hellers Craft Beef & Caramelised Onion Smashed Burgers | $5.99 | Promo: 0
+ 插入成功: First Light Wagyu Beef Brisket Manuka Smoked BBQ Wagyu Beef Brisket | $18.99 | Promo: 1
+ 爬取 Egg @ store 81f807e9-1879-484c-b27e-ded56245c6a4
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=81f807e9-1879-484c-b27e-ded56245c6a4
+ 插入成功: Woodland Free Range Size 7 Eggs | $7.79 | Promo: 1
+ 插入成功: Sure As Eggs Mixed Grade Eggs | $6.99 | Promo: 1
+ 插入成功: Woodland Free Range Grade 7 Eggs | $5.49 | Promo: 1
+ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $12.99 | Promo: 0
+ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $8.79 | Promo: 0
+ 插入成功: Woodland Free Range Size 6 Eggs | $9.69 | Promo: 0
+ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $8.49 | Promo: 0
+ 插入成功: Farmer Brown Cage-Free Barn Size 6 Eggs | $8.49 | Promo: 1
+ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $8.69 | Promo: 0
+ 插入成功: Sure As Eggs Size 7 Eggs | $7.99 | Promo: 0
+ 插入成功: Woodland Free Range Size 6 Eggs | $16.99 | Promo: 0
+ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $5.99 | Promo: 0
+ 插入成功: Woodland Free Range Grade 8 Eggs | $7.29 | Promo: 0
+ 插入成功: Farmer Brown Cage-Free Barn Size 7 Eggs | $10.99 | Promo: 0
+ 插入成功: Farmer Brown Free Range Large Size 7 Eggs | $11.79 | Promo: 0
+ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $5.79 | Promo: 0
+ 插入成功: Bowalley Free Range Mixed Grade Eggs | $7.99 | Promo: 0
+ 插入成功: Pams Free Range Free Range Size 6 Eggs | $9.99 | Promo: 0
+ 插入成功: New Day Free Range Mixed Grade Eggs | $10.49 | Promo: 1
+ 插入成功: Woodland Free Range Grade 8 Eggs | $12.19 | Promo: 0
+ 插入成功: Bowalley Free Range Size 7 Eggs | $10.19 | Promo: 0
+ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $13.99 | Promo: 0
+ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $6.49 | Promo: 0
+ 插入成功: Farmer Brown Free Range Mixed Grade Eggs | $11.19 | Promo: 0
+ 插入成功: Farmer Brown Barn Size 6 Eggs | $15.49 | Promo: 0
+ 插入成功: Pams Free Range Free Range Size 7 Eggs | $11.29 | Promo: 0
+ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $16.99 | Promo: 0
+ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $9.99 | Promo: 1
+ 插入成功: Hurunui Omegga Mixed Grade Eggs | $9.99 | Promo: 0
+ 插入成功: Lakeside Free Range Mixed Eggs | $10.99 | Promo: 0
+ 插入成功: Higgins Family Free Range Size 7 Eggs | $12.99 | Promo: 0
+ 插入成功: Pams Free Range Mixed Grade Eggs | $15.49 | Promo: 0
+ 插入成功: Lakeside Free Range Mixed Eggs | $5.99 | Promo: 0
+ 插入成功: Pams Free Range Size 8 Eggs | $11.29 | Promo: 0
+ 插入成功: New Day Free Range Size 7 Eggs | $10.69 | Promo: 0
+ 插入成功: Pams Free Range Size 7 Eggs | $6.29 | Promo: 0
+ 插入成功: Natural Free-Range Co Natural Free-Range Eggs | $12.99 | Promo: 0
+ 插入成功: Zeagold Egg White Natural Protein | $14.79 | Promo: 0
+ 插入成功: Wholesome New Zealand New Zealand Organic Mixed Grade Eggs | $13.79 | Promo: 0
+ 插入成功: Natural Free-Range Co White SPCA Eggs | $6.99 | Promo: 0
+ 插入成功: Higgins Family Free Range Jumbo Eggs | $12.79 | Promo: 0
+ 插入成功: Zealand Farms Free Range Size 7 Eco Eggs | $8.99 | Promo: 1
+ 插入成功: Higgins Family Free Range Jumbo Eggs | $7.99 | Promo: 0
+ 插入成功: Better Eggs Free Range Size 7 Eggs | $13.49 | Promo: 0
+ 插入成功: Zealand Farms Free Range Animal Welfare Mixed Grade Eggs | $14.99 | Promo: 1
+ 插入成功: Henergy Cage-Free A Grade Size 7 Eggs | $9.99 | Promo: 1
+ 插入成功: Old Fashion Egg Co Free Range Eggs | $10.49 | Promo: 0
+ 插入成功: Henergy Barn Size 6 Eggs | $14.99 | Promo: 1
+ 插入成功: Zealand Farms Free Range Mixed Grade Organic Bio Eggs | $13.49 | Promo: 0
+ 插入成功: Henergy Cage Free Size 7 Eggs | $15.99 | Promo: 1
+ 插入成功: Pams Cage-Free Size 6 Barn Eggs | $8.99 | Promo: 0
+ 插入成功: Henergy Cage-Free A Grade Jumbo Eggs | $9.99 | Promo: 0
+ 插入成功: Woodland Egg Whites | $9.49 | Promo: 0
+ 插入成功: Pams Cage-Free Size 7 Barn Eggs | $9.49 | Promo: 0
+ 插入成功: New Day Free Range Size 6 Eggs | $16.99 | Promo: 0
+ 爬取 Milk @ store 81f807e9-1879-484c-b27e-ded56245c6a4
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=81f807e9-1879-484c-b27e-ded56245c6a4
+没有弹窗按钮，或点击失败，跳过
+ 插入成功: Value Standard Milk | $4.39 | Promo: 0
+ 插入成功: Value Standard Milk | $6.65 | Promo: 0
+ 插入成功: Pams Standard Milk | $2.95 | Promo: 0
+ 插入成功: Pams Standard Milk | $4.99 | Promo: 0
+ 插入成功: Pams Lite Milk | $4.99 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $5.59 | Promo: 0
+ 插入成功: Value Trim Milk | $4.39 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $3.39 | Promo: 0
+ 插入成功: Pams Standard Milk | $7.99 | Promo: 0
+ 插入成功: Pams Trim Milk | $2.95 | Promo: 0
+ 插入成功: Pams Calci Smart Milk | $6.29 | Promo: 0
+ 插入成功: Pams Trim Milk | $4.99 | Promo: 0
+ 插入成功: Pams Lite Milk | $2.95 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $1.65 | Promo: 0
+ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $6.75 | Promo: 0
+ 插入成功: Pams Calci Smart Milk | $3.55 | Promo: 0
+ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $3.65 | Promo: 0
+ 插入成功: Meadow Fresh Lite Fresh Milk | $5.59 | Promo: 0
+ 插入成功: Meadow Fresh Original Fresh Milk | $8.39 | Promo: 0
+ 插入成功: Meadow Fresh Trim Fresh Milk | $5.59 | Promo: 0
+ 插入成功: Meadow Fresh Trim Fresh Milk | $3.39 | Promo: 0
+ 插入成功: Anchor A2 Blue Milk | $7.49 | Promo: 0
+ 插入成功: Value Trim Milk | $6.65 | Promo: 0
+ 插入成功: Meadow Fresh Lite Fresh Milk | $3.39 | Promo: 0
+ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $6.89 | Promo: 0
+ 插入成功: Pams Trim Milk | $7.99 | Promo: 0
+ 插入成功: Meadow Fresh Trim Fresh Milk | $1.65 | Promo: 0
+ 插入成功: Naturalea Organic Milk | $4.89 | Promo: 0
+ 插入成功: Meadow Fresh Cultured Buttermilk | $5.15 | Promo: 0
+ 插入成功: Meadow Fresh Organic Original Fresh Milk | $7.49 | Promo: 0
+ 插入成功: Lewis Road Creamery A2 Protein Homogenised Milk | $7.29 | Promo: 0
+ 插入成功: Anchor A2 Lite Milk | $7.49 | Promo: 0
+ 插入成功: Puhoi Valley Fresh Non Homogenised Non Organic Milk | $6.79 | Promo: 0
+ 插入成功: Lewis Road Creamery Homogenised Jersey Milk | $6.75 | Promo: 0
+ 插入成功: Lewis Road Creamery Non-Homogenised Jersey Milk | $6.75 | Promo: 0
+ 插入成功: Lewis Road Creamery Half & Half Jersey Milk | $7.49 | Promo: 0
+ 插入成功: Anchor Protein+ Lite Milk | $6.65 | Promo: 0
+ 插入成功: Karikaas Cultured & Churned Buttermilk | $6.85 | Promo: 0
+ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $4.79 | Promo: 0
+ 爬取 Meat @ store 81f807e9-1879-484c-b27e-ded56245c6a4
+ 正在访问: https://www.newworld.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=81f807e9-1879-484c-b27e-ded56245c6a4
+没有弹窗按钮，或点击失败，跳过
+ 插入成功: NZ Premium Beef Mince | $21.99 | Promo: 1
+ 插入成功: Prime Beef Mince | $20.49 | Promo: 0
+ 插入成功: Beef Rump Steak | $28.29 | Promo: 0
+ 插入成功: Lamb Shoulder Chops | $19.49 | Promo: 0
+ 插入成功: NZ Beef Schnitzel | $25.99 | Promo: 1
+ 插入成功: Crumbed Beef Schnitzel | $25.99 | Promo: 1
+ 插入成功: NZ Stir Fry Beef | $28.99 | Promo: 1
+ 插入成功: NZ Diced Beef | $28.99 | Promo: 1
+ 插入成功: Lamb Leg Roast | $23.89 | Promo: 0
+ 插入成功: Beef Scotch Fillet Steak | $42.99 | Promo: 0
+ 插入成功: NZ Beef Porterhouse Steak | $36.99 | Promo: 0
+ 插入成功: Lamb Loin Chops | $28.99 | Promo: 0
+ 插入成功: Vacuum Packed Whole Lamb Leg | $23.89 | Promo: 0
+ 插入成功: Wilson Hellaby Corned Silverside | $17.89 | Promo: 0
+ 插入成功: Lamb Steak | $34.99 | Promo: 0
+ 插入成功: Beef Fillet Steak | $63.99 | Promo: 0
+ 插入成功: NZ Beef Bolar Roast | $26.49 | Promo: 0
+ 插入成功: Lamb Butterfly Leg Roasts | $40.99 | Promo: 0
+ 插入成功: Lamb Mince | $27.99 | Promo: 0
+ 插入成功: Lamb Drumsticks | $27.99 | Promo: 0
+ 插入成功: NZ Beef Topside Roast | $26.99 | Promo: 0
+ 插入成功: Unsliced Beef Fillet Steak | $63.99 | Promo: 0
+ 插入成功: NZ Tenderised Beef Steak | $27.99 | Promo: 1
+ 插入成功: Lamb Shanks (Knuckles) | $27.99 | Promo: 0
+ 插入成功: Topside Beef Mince | $26.49 | Promo: 0
+ 插入成功: Beef Minute Steak | $25.49 | Promo: 0
+ 插入成功: NZ Frenched Lamb Rack | $56.99 | Promo: 0
+ 插入成功: Beef Cheeks | $28.99 | Promo: 0
+ 插入成功: Beef Rump Roast | $27.29 | Promo: 0
+ 插入成功: Premium NZ Angus Pure Beef Mince | $31.99 | Promo: 0
+ 插入成功: NZ Lamb Boneless Rolled Forquarter | $29.99 | Promo: 0
+ 插入成功: NZ Beef Shin Meat | $23.99 | Promo: 0
+ 插入成功: Whole Beef Fillet | $47.99 | Promo: 0
+ 插入成功: Lamb Back Straps | $53.99 | Promo: 0
+ 插入成功: Beef Skirt Steak | $23.99 | Promo: 0
+ 插入成功: Fresh French Lamb Cutlets | $51.99 | Promo: 0
+ 插入成功: NZ Lamb Schnitzel | $32.49 | Promo: 0
+ 插入成功: Beef Sirloin Roast | $35.99 | Promo: 0
+ 插入成功: Diced Lamb | $40.49 | Promo: 0
+ 插入成功: Angus Beef Eye Fillet | $67.99 | Promo: 0
+ 插入成功: Beef Kebabs | $28.49 | Promo: 0
+ 插入成功: Mini Lamb Roast | $34.49 | Promo: 0
+ 插入成功: Lamb Kebabs | $36.49 | Promo: 0
+ 插入成功: Hellers Craft Beef & Caramelised Onion Smashed Burgers | $5.99 | Promo: 0
+ 插入成功: Pams Angus Beef Burger Patties | $11.99 | Promo: 0
+NewWorld data successfully collected
+====================================================================
+Exception ignored in: <function Chrome.__del__ at 0x000001AB712887C0>
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+OSError: [WinError 6] 句柄无效。
+ pipeline_newworld.py 执行完成
+
+开始运行: pipeline_paknsave.py
+ 爬取 Egg @ store 4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $7.99 | Promo: 0
+✅ 插入成功: Sure As Eggs Mixed Grade Eggs | $7.29 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $5.99 | Promo: 1
+✅ 插入成功: Farmer Brown Cage-Free Barn Size 6 Eggs | $8.99 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $7.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $14.99 | Promo: 0
+✅ 插入成功: Sure As Eggs Size 7 Eggs | $7.49 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $11.79 | Promo: 0
+✅ 插入成功: Quail Valley Free Range Mixed Grade Eggs | $10.49 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 6 Eggs | $5.99 | Promo: 0
+✅ 插入成功: Farmer Brown Barn Size 6 Eggs | $9.49 | Promo: 1
+✅ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $5.49 | Promo: 0
+✅ 插入成功: Bowalley Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: Bowalley Free Range Mixed Grade Eggs | $7.49 | Promo: 0
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $10.49 | Promo: 1
+✅ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $6.99 | Promo: 1
+✅ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $10.49 | Promo: 0
+✅ 插入成功: Farmer Brown Free Range Large Size 7 Eggs | $11.29 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $5.29 | Promo: 0
+✅ 插入成功: Farmer Brown Cage-Free Barn Size 7 Eggs | $8.79 | Promo: 1
+✅ 插入成功: Woodland Free Range Grade 7 Eggs | $6.49 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $6.99 | Promo: 0
+✅ 插入成功: Ewing Cage Free Barn Mixed Grade Eggs | $7.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $10.99 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $5.29 | Promo: 1
+✅ 插入成功: New Day Free Range Size 7 Eggs | $9.99 | Promo: 0
+✅ 插入成功: Zeagold Egg White Natural Protein | $13.95 | Promo: 0
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $5.49 | Promo: 1
+✅ 插入成功: Ewing Cage Free Barn Mixed Grade Eggs | $11.99 | Promo: 1
+✅ 插入成功: Henergy Cage-Free Size 6 Eggs | $9.99 | Promo: 0
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $5.49 | Promo: 0
+✅ 插入成功: Pams Free Range Size 8 Eggs | $9.99 | Promo: 0
+✅ 插入成功: Ewing Cage Free Barn Size 7 Eggs | $8.49 | Promo: 0
+✅ 插入成功: Woodland Egg Whites | $8.79 | Promo: 0
+✅ 插入成功: eg. Mixed Grade Free Range Eggs | $13.99 | Promo: 0
+✅ 插入成功: New Day Free Range Size 6 Eggs | $15.79 | Promo: 0
+ 爬取 Milk @ store 4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Value Standard Milk | $4.29 | Promo: 0
+✅ 插入成功: Value Standard Milk | $6.55 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $4.69 | Promo: 1
+✅ 插入成功: Value Trim Milk | $4.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $8.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $6.19 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $4.69 | Promo: 1
+✅ 插入成功: Pams Lite Milk | $2.85 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $4.69 | Promo: 1
+✅ 插入成功: Value Trim Milk | $6.55 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $6.65 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $3.45 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $6.79 | Promo: 0
+✅ 插入成功: Anchor A2 Blue Milk | $7.39 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $3.59 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Milk | $1.55 | Promo: 0
+✅ 插入成功: Meadow Fresh Cultured Buttermilk | $4.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $3.65 | Promo: 0
+✅ 插入成功: Naturalea Organic Milk | $4.65 | Promo: 0
+✅ 插入成功: Meadow Fresh Organic Original Fresh Milk | $7.39 | Promo: 0
+✅ 插入成功: Puhoi Valley Fresh Non Homogenised Non Organic Milk | $6.75 | Promo: 0
+✅ 插入成功: Lewis Road Creamery A2 Protein Homogenised Milk | $6.59 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Milk | $1.55 | Promo: 0
+✅ 插入成功: Karikaas Cultured & Churned Buttermilk | $6.55 | Promo: 0
+✅ 插入成功: Anchor Protein+ Lite Milk | $6.49 | Promo: 0
+✅ 插入成功: Jones Family Farm A2 Milk | $8.49 | Promo: 1
+✅ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $7.99 | Promo: 1
+ 爬取 Meat @ store 4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=4a279605-eaa8-470d-bcd4-0a9e3c9ab43b
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Prime Beef Mince | $18.99 | Promo: 1
+✅ 插入成功: NZ Premium Beef Mince | $24.29 | Promo: 0
+✅ 插入成功: Beef Rump Steak | $27.99 | Promo: 0
+✅ 插入成功: Lamb Leg Roast | $22.49 | Promo: 0
+✅ 插入成功: Lamb Shoulder Chops | $16.49 | Promo: 1
+✅ 插入成功: NZ Beef Porterhouse Steak | $36.79 | Promo: 0
+✅ 插入成功: Beef Scotch Fillet Steak | $43.79 | Promo: 0
+✅ 插入成功: NZ Beef Schnitzel | $24.99 | Promo: 0
+✅ 插入成功: Beef Soup Bones | $5.99 | Promo: 0
+✅ 插入成功: Wilson Hellaby Corned Silverside | $17.49 | Promo: 0
+✅ 插入成功: Lamb Loin Chops | $27.99 | Promo: 0
+✅ 插入成功: Crumbed Beef Schnitzel | $24.99 | Promo: 0
+✅ 插入成功: Beef Bones | $5.69 | Promo: 0
+✅ 插入成功: NZ Beef Bolar Roast | $25.99 | Promo: 0
+✅ 插入成功: Lamb Steak | $33.99 | Promo: 0
+✅ 插入成功: NZ Beef Chuck Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Diced Beef | $29.89 | Promo: 0
+✅ 插入成功: Lamb Shanks (Knuckles) | $19.99 | Promo: 0
+✅ 插入成功: Beef Fillet Steak | $44.44 | Promo: 1
+✅ 插入成功: Lamb Bones | $7.99 | Promo: 0
+✅ 插入成功: Point End Brisket | $22.49 | Promo: 0
+✅ 插入成功: NZ Beef Topside Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Roast | $25.99 | Promo: 0
+✅ 插入成功: NZ Beef Shin Meat | $23.49 | Promo: 0
+✅ 插入成功: NZ Cross Cut Beef Blade Steak | $24.49 | Promo: 0
+✅ 插入成功: Beef Ribeye Steak On The Bone | $36.79 | Promo: 0
+✅ 插入成功: Lamb Drumsticks | $25.99 | Promo: 0
+✅ 插入成功: NZ Beef T Bone Steak | $39.99 | Promo: 0
+✅ 插入成功: Beef Shin On Bone | $18.69 | Promo: 0
+✅ 插入成功: NZ Lamb Spare Ribs | $19.99 | Promo: 0
+✅ 插入成功: Unsliced Beef Fillet Steak | $44.44 | Promo: 1
+✅ 插入成功: Beef Skirt Steak | $22.99 | Promo: 0
+✅ 插入成功: Lamb Kidneys | $28.99 | Promo: 0
+✅ 插入成功: Green Meadows Angus Beef + Cheese Burgers | $10.99 | Promo: 1
+✅ 插入成功: Diced Lamb | $37.69 | Promo: 0
+✅ 插入成功: NZ Lamb Neck Chops | $20.99 | Promo: 0
+✅ 插入成功: Fresh French Lamb Cutlets | $59.99 | Promo: 0
+✅ 插入成功: Harris Farms Beef and Pork Mince | $10.45 | Promo: 0
+ 爬取 Egg @ store 61dd754e-8525-4b9e-9e08-173389eea8a8
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=61dd754e-8525-4b9e-9e08-173389eea8a8
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $7.99 | Promo: 0
+✅ 插入成功: Sure As Eggs Mixed Grade Eggs | $7.29 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: Farmer Brown Cage-Free Barn Size 6 Eggs | $6.79 | Promo: 1
+✅ 插入成功: Sure As Eggs Size 7 Eggs | $7.49 | Promo: 0
+✅ 插入成功: Bowalley Free Range Mixed Grade Eggs | $7.49 | Promo: 0
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $10.49 | Promo: 1
+✅ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $6.99 | Promo: 1
+✅ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $10.49 | Promo: 0
+✅ 插入成功: Farmer Brown Free Range Large Size 7 Eggs | $11.29 | Promo: 0
+✅ 插入成功: Farmer Brown Cage-Free Barn Size 7 Eggs | $8.79 | Promo: 1
+✅ 插入成功: Farmer Brown Free Range Mixed Grade Eggs | $7.99 | Promo: 1
+✅ 插入成功: Pams Free Range Free Range Size 6 Eggs | $9.49 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $6.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $10.99 | Promo: 0
+✅ 插入成功: Zeagold Egg White Natural Protein | $13.95 | Promo: 0
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $5.29 | Promo: 1
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $5.49 | Promo: 0
+✅ 插入成功: Zealand Farms Free Range Size 7 Eco Eggs | $8.79 | Promo: 0
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Mixed Grade Eggs | $13.49 | Promo: 1
+✅ 插入成功: Farmer Brown Barn Eggs Size 8 | $6.29 | Promo: 0
+✅ 插入成功: Pams Free Range Size 6 Eggs | $5.79 | Promo: 0
+✅ 插入成功: Pams Free Range Size 8 Eggs | $6.49 | Promo: 0
+✅ 插入成功: Woodland Egg Whites | $8.79 | Promo: 0
+ 爬取 Milk @ store 61dd754e-8525-4b9e-9e08-173389eea8a8
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=61dd754e-8525-4b9e-9e08-173389eea8a8
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Value Standard Milk | $4.29 | Promo: 0
+✅ 插入成功: Value Standard Milk | $6.55 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $4.49 | Promo: 1
+✅ 插入成功: Value Trim Milk | $4.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Lite Milk | $4.95 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $8.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $6.19 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $5.49 | Promo: 0
+✅ 插入成功: Pams Lite Milk | $2.85 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $5.49 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $1.55 | Promo: 0
+✅ 插入成功: Value Trim Milk | $6.55 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $6.65 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $3.45 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $6.79 | Promo: 0
+✅ 插入成功: Anchor A2 Blue Milk | $7.39 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $3.59 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Milk | $1.55 | Promo: 0
+✅ 插入成功: Meadow Fresh Cultured Buttermilk | $4.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $3.65 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $1.55 | Promo: 0
+✅ 插入成功: Naturalea Organic Milk | $4.65 | Promo: 0
+✅ 插入成功: Anchor A2 Lite Milk | $7.39 | Promo: 0
+✅ 插入成功: Meadow Fresh Organic Original Fresh Milk | $7.39 | Promo: 0
+✅ 插入成功: Puhoi Valley Fresh Non Homogenised Non Organic Milk | $6.75 | Promo: 0
+✅ 插入成功: Lewis Road Creamery A2 Protein Homogenised Milk | $6.59 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Homogenised Jersey Milk | $6.45 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Non-Homogenised Jersey Milk | $6.45 | Promo: 0
+✅ 插入成功: Karikaas Cultured & Churned Buttermilk | $6.55 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Rocky Road Fresh Flavoured Milk | $3.89 | Promo: 1
+✅ 插入成功: Puhoi Valley Black Forest Milk with Real Chocolate | $4.25 | Promo: 0
+✅ 插入成功: Puhoi Valley Black Forest Milk With Real Chocolate | $6.79 | Promo: 1
+ 爬取 Meat @ store 61dd754e-8525-4b9e-9e08-173389eea8a8
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=61dd754e-8525-4b9e-9e08-173389eea8a8
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Prime Beef Mince | $20.29 | Promo: 0
+✅ 插入成功: NZ Premium Beef Mince | $20.99 | Promo: 1
+✅ 插入成功: Beef Rump Steak | $27.99 | Promo: 0
+✅ 插入成功: Lamb Leg Roast | $21.99 | Promo: 0
+✅ 插入成功: Bulk Beef Steak Mince | $19.29 | Promo: 0
+✅ 插入成功: Lamb Shoulder Chops | $16.49 | Promo: 1
+✅ 插入成功: NZ Beef Porterhouse Steak | $36.79 | Promo: 0
+✅ 插入成功: Beef Scotch Fillet Steak | $42.79 | Promo: 0
+✅ 插入成功: Bulk Lamb Shoulder Chops | $16.49 | Promo: 1
+✅ 插入成功: NZ Beef Schnitzel | $19.99 | Promo: 1
+✅ 插入成功: Wilson Hellaby Corned Silverside | $17.49 | Promo: 0
+✅ 插入成功: Lamb Loin Chops | $27.99 | Promo: 0
+✅ 插入成功: Harris Farms Corned Silverside Beef | $17.49 | Promo: 0
+✅ 插入成功: Crumbed Beef Schnitzel | $19.99 | Promo: 1
+✅ 插入成功: Bulk Beef Rump Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Beef Bolar Roast | $25.99 | Promo: 0
+✅ 插入成功: Lamb Steak | $33.99 | Promo: 0
+✅ 插入成功: Bulk Porterhouse Steak | $35.79 | Promo: 0
+✅ 插入成功: Bulk Beef Chuck Stewing Steak | $25.99 | Promo: 0
+✅ 插入成功: Lamb Mince | $26.29 | Promo: 0
+✅ 插入成功: Lamb Shanks (Knuckles) | $18.99 | Promo: 0
+✅ 插入成功: Beef Fillet Steak | $49.99 | Promo: 0
+✅ 插入成功: Beef Rolled Rib Roast Plain | $19.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Roast | $25.99 | Promo: 0
+✅ 插入成功: Bulk Beef Schnitzel | $19.99 | Promo: 1
+✅ 插入成功: Bulk Beef Ribeye Steak | $41.79 | Promo: 0
+✅ 插入成功: NZ Lambs Fry | $13.99 | Promo: 0
+✅ 插入成功: Bulk Beef Topside Steak | $25.99 | Promo: 0
+✅ 插入成功: Beef Ribeye Steak On The Bone | $36.79 | Promo: 0
+✅ 插入成功: Beef Danish Roast | $19.99 | Promo: 0
+✅ 插入成功: Lamb Drumsticks | $25.99 | Promo: 0
+✅ 插入成功: Lamb Hearts | $12.99 | Promo: 0
+✅ 插入成功: New York Cut Beef Rump Steak | $27.99 | Promo: 0
+✅ 插入成功: NZ Beef T Bone Steak | $39.99 | Promo: 0
+✅ 插入成功: Beef Shin On Bone | $19.99 | Promo: 0
+✅ 插入成功: Beef Minute Steak | $24.49 | Promo: 0
+✅ 插入成功: Lamb Kidneys | $15.99 | Promo: 0
+✅ 插入成功: Fast Fry Beef Porterhouse Steak | $36.79 | Promo: 0
+✅ 插入成功: Beef Casserole Steak | $20.99 | Promo: 0
+✅ 插入成功: Lamb Semi-Boned Forequarter | $25.99 | Promo: 0
+✅ 插入成功: Angus Beef Rump | $32.49 | Promo: 0
+✅ 插入成功: Beef Trout | $19.99 | Promo: 0
+✅ 插入成功: Point End Wagyu Brisket | $28.49 | Promo: 0
+✅ 插入成功: Harmony Organic Beef Tallow | $18.99 | Promo: 0
+✅ 插入成功: Hellers Craft Ol Smokey Beef & Brisket Smashed Burgers | $3.99 | Promo: 1
+✅ 插入成功: Harmony Lamb & Herb Butterflied Leg | $17.49 | Promo: 0
+ 爬取 Egg @ store 8cd700ae-d96f-4761-bd7a-805d6b93536d
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=8cd700ae-d96f-4761-bd7a-805d6b93536d
+✅ 插入成功: Sure As Eggs Mixed Grade Eggs | $7.29 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $8.69 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $6.99 | Promo: 1
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $11.79 | Promo: 0
+✅ 插入成功: Quail Valley Free Range Mixed Grade Eggs | $10.49 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 6 Eggs | $5.99 | Promo: 0
+✅ 插入成功: Bowalley Free Range Mixed Grade Eggs | $7.49 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $6.99 | Promo: 1
+✅ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+✅ 插入成功: Farmer Brown Cage-Free Barn Size 7 Eggs | $8.79 | Promo: 1
+✅ 插入成功: Woodland Free Range Grade 7 Eggs | $6.49 | Promo: 0
+✅ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $14.99 | Promo: 0
+✅ 插入成功: Zeagold Egg White Natural Protein | $13.95 | Promo: 0
+✅ 插入成功: Henergy Cage-Free A Grade Size 7 Eggs | $9.99 | Promo: 0
+✅ 插入成功: Pams Cage-Free Size 6 Barn Eggs | $8.49 | Promo: 0
+✅ 插入成功: Pams Cage-Free Size 7 Barn Eggs | $8.99 | Promo: 0
+✅ 插入成功: New Day Free Range Size 6 Eggs | $15.79 | Promo: 0
+ 爬取 Milk @ store 8cd700ae-d96f-4761-bd7a-805d6b93536d
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=8cd700ae-d96f-4761-bd7a-805d6b93536d
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Value Standard Milk | $4.29 | Promo: 0
+✅ 插入成功: Value Standard Milk | $6.55 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $4.49 | Promo: 1
+✅ 插入成功: Value Trim Milk | $4.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Lite Milk | $4.95 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $8.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $6.19 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $4.49 | Promo: 1
+✅ 插入成功: Pams Lite Milk | $2.85 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $4.49 | Promo: 1
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $1.55 | Promo: 0
+✅ 插入成功: Value Trim Milk | $6.55 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $6.65 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $3.45 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $6.79 | Promo: 0
+✅ 插入成功: Anchor A2 Blue Milk | $7.39 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $3.59 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Meadow Fresh Cultured Buttermilk | $4.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $3.65 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $1.55 | Promo: 0
+✅ 插入成功: Naturalea Organic Milk | $4.65 | Promo: 0
+✅ 插入成功: Meadow Fresh Organic Original Fresh Milk | $7.39 | Promo: 0
+✅ 插入成功: Puhoi Valley Fresh Non Homogenised Non Organic Milk | $6.75 | Promo: 0
+✅ 插入成功: Puhoi Valley Black Forest Milk with Real Chocolate | $4.25 | Promo: 0
+✅ 插入成功: Puhoi Valley Black Forest Milk With Real Chocolate | $6.79 | Promo: 1
+ 爬取 Meat @ store 8cd700ae-d96f-4761-bd7a-805d6b93536d
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=8cd700ae-d96f-4761-bd7a-805d6b93536d
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Prime Beef Mince | $20.29 | Promo: 0
+✅ 插入成功: NZ Premium Beef Mince | $24.29 | Promo: 0
+✅ 插入成功: Beef Rump Steak | $27.99 | Promo: 0
+✅ 插入成功: Lamb Leg Roast | $22.49 | Promo: 0
+✅ 插入成功: Lamb Shoulder Chops | $16.49 | Promo: 1
+✅ 插入成功: NZ Beef Porterhouse Steak | $36.79 | Promo: 0
+✅ 插入成功: Vacuum Packed Whole Lamb Leg | $22.49 | Promo: 0
+✅ 插入成功: Beef Scotch Fillet Steak | $42.79 | Promo: 0
+✅ 插入成功: NZ Beef Schnitzel | $25.49 | Promo: 0
+✅ 插入成功: Wilson Hellaby Corned Silverside | $17.49 | Promo: 0
+✅ 插入成功: Lamb Loin Chops | $27.99 | Promo: 0
+✅ 插入成功: Crumbed Beef Schnitzel | $25.49 | Promo: 0
+✅ 插入成功: NZ Beef Bolar Roast | $25.99 | Promo: 0
+✅ 插入成功: Lamb Steak | $33.99 | Promo: 0
+✅ 插入成功: NZ Beef Chuck Steak | $21.99 | Promo: 1
+✅ 插入成功: NZ Stir Fry Beef | $29.89 | Promo: 0
+✅ 插入成功: NZ Lamb Leg Chops | $23.49 | Promo: 0
+✅ 插入成功: NZ Beef Blade Steak | $26.99 | Promo: 0
+✅ 插入成功: Lamb Mince | $26.29 | Promo: 0
+✅ 插入成功: NZ Diced Beef | $29.89 | Promo: 0
+✅ 插入成功: NZ Tenderised Beef Steak | $28.99 | Promo: 0
+✅ 插入成功: Beef Fillet Steak | $62.99 | Promo: 0
+✅ 插入成功: Point End Brisket | $22.49 | Promo: 0
+✅ 插入成功: NZ Beef Topside Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Roast | $25.99 | Promo: 0
+✅ 插入成功: Lamb Butterfly Leg Roasts | $38.99 | Promo: 0
+✅ 插入成功: NZ Beef Shin Meat | $23.49 | Promo: 0
+✅ 插入成功: Harris Farms Italian Shorts Beef Sausages | $8.25 | Promo: 0
+✅ 插入成功: Beef Ribeye Steak On The Bone | $36.79 | Promo: 0
+✅ 插入成功: Beef Danish Roast | $18.99 | Promo: 0
+✅ 插入成功: Whole Beef Ribeye | $37.79 | Promo: 0
+✅ 插入成功: Lamb Hearts | $14.99 | Promo: 0
+✅ 插入成功: NZ Beef T Bone Steak | $39.99 | Promo: 0
+✅ 插入成功: NZ Lamb Forequarter Roast | $18.99 | Promo: 0
+✅ 插入成功: Beef Cheeks | $25.99 | Promo: 0
+✅ 插入成功: Beef Short Ribs | $24.49 | Promo: 0
+✅ 插入成功: NZ Frenched Lamb Rack | $54.99 | Promo: 0
+✅ 插入成功: Unsliced Beef Fillet Steak | $62.99 | Promo: 0
+✅ 插入成功: Wilson Hellaby Teriyaki Marinated Porterhouse Sirloin Beef | $25.99 | Promo: 0
+✅ 插入成功: NZ Lamb Boneless Rolled Forquarter | $28.99 | Promo: 0
+✅ 插入成功: Beef Skirt Steak | $22.99 | Promo: 0
+✅ 插入成功: Lamb Kidneys | $28.99 | Promo: 0
+✅ 插入成功: NZ Lamb Schnitzel | $31.49 | Promo: 0
+✅ 插入成功: NZ Whole Beef Porterhouse | $32.99 | Promo: 0
+✅ 插入成功: NZ Butterflied Lamb Shoulder | $29.99 | Promo: 0
+✅ 插入成功: Diced Lamb | $37.69 | Promo: 0
+✅ 插入成功: NZ Ox Heart | $8.49 | Promo: 0
+✅ 插入成功: NZ Ox Kidney | $13.49 | Promo: 0
+✅ 插入成功: Lamb Rump Roast | $32.49 | Promo: 0
+✅ 插入成功: Fresh French Lamb Cutlets | $50.99 | Promo: 0
+✅ 插入成功: Mini Lamb Roast | $33.49 | Promo: 0
+✅ 插入成功: Lamb Stirfry | $33.49 | Promo: 0
+✅ 插入成功: Lamb Ribeye Roast | $32.99 | Promo: 0
+✅ 插入成功: Point End Brisket Slices | $23.49 | Promo: 0
+ 爬取 Egg @ store be4c4780-218e-425a-a90f-63e21773572b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=be4c4780-218e-425a-a90f-63e21773572b
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $7.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $8.69 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $6.99 | Promo: 1
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $14.99 | Promo: 0
+✅ 插入成功: Sure As Eggs Size 7 Eggs | $7.49 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $9.99 | Promo: 1
+✅ 插入成功: Farmer Brown Farm Fresh Colony Size 6 Eggs | $12.99 | Promo: 0
+✅ 插入成功: Quail Valley Free Range Mixed Grade Eggs | $10.49 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 6 Eggs | $5.99 | Promo: 0
+✅ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $3.79 | Promo: 1
+✅ 插入成功: Bowalley Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $10.49 | Promo: 1
+✅ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $8.99 | Promo: 1
+✅ 插入成功: Farmer Brown Free Range Large Size 7 Eggs | $11.29 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $5.29 | Promo: 0
+✅ 插入成功: Farmer Brown Cage-Free Barn Size 7 Eggs | $8.79 | Promo: 1
+✅ 插入成功: Woodland Free Range Grade 7 Eggs | $6.49 | Promo: 0
+✅ 插入成功: Farmer Brown Free Range Mixed Grade Eggs | $10.29 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $12.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $3.99 | Promo: 1
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $10.99 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 8 Eggs | $5.29 | Promo: 1
+✅ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $14.99 | Promo: 0
+✅ 插入成功: Pams Free Range Size 7 Eggs | $5.79 | Promo: 0
+✅ 插入成功: New Day Free Range Size 7 Eggs | $9.99 | Promo: 0
+✅ 插入成功: Pams Free Range Mixed Grade Eggs | $13.99 | Promo: 0
+✅ 插入成功: Zeagold Egg White Natural Protein | $13.95 | Promo: 0
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $5.49 | Promo: 0
+✅ 插入成功: Pams Free Range Size 6 Eggs | $5.79 | Promo: 0
+✅ 插入成功: Lakeside Free Range Mixed Eggs | $10.29 | Promo: 0
+✅ 插入成功: Pams Free Range Size 8 Eggs | $6.49 | Promo: 0
+✅ 插入成功: Woodland Egg Whites | $8.79 | Promo: 0
+✅ 插入成功: New Day Free Range Size 6 Eggs | $15.79 | Promo: 0
+ 爬取 Milk @ store be4c4780-218e-425a-a90f-63e21773572b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=be4c4780-218e-425a-a90f-63e21773572b
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Value Standard Milk | $4.29 | Promo: 0
+✅ 插入成功: Value Standard Milk | $6.55 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $4.69 | Promo: 1
+✅ 插入成功: Value Trim Milk | $4.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Lite Milk | $4.95 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $8.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $6.19 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $4.69 | Promo: 1
+✅ 插入成功: Pams Lite Milk | $2.85 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $4.69 | Promo: 1
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $1.55 | Promo: 0
+✅ 插入成功: Value Trim Milk | $6.55 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $4.95 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $6.65 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $3.45 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $6.79 | Promo: 0
+✅ 插入成功: Anchor A2 Blue Milk | $7.39 | Promo: 0
+✅ 插入成功: Meadow Fresh Calci-Trim Fresh Milk | $3.59 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $3.35 | Promo: 0
+✅ 插入成功: Meadow Fresh Cultured Buttermilk | $4.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $3.65 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $1.55 | Promo: 0
+✅ 插入成功: Naturalea Organic Milk | $4.65 | Promo: 0
+✅ 插入成功: Anchor A2 Lite Milk | $7.39 | Promo: 0
+✅ 插入成功: Meadow Fresh Organic Original Fresh Milk | $7.39 | Promo: 0
+✅ 插入成功: Puhoi Valley Fresh Non Homogenised Non Organic Milk | $6.75 | Promo: 0
+✅ 插入成功: Lewis Road Creamery A2 Protein Homogenised Milk | $6.59 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Homogenised Jersey Milk | $6.45 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Non-Homogenised Jersey Milk | $6.45 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $3.89 | Promo: 1
+✅ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $8.09 | Promo: 0
+ 爬取 Meat @ store be4c4780-218e-425a-a90f-63e21773572b
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=be4c4780-218e-425a-a90f-63e21773572b
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Prime Beef Mince | $17.99 | Promo: 0
+✅ 插入成功: NZ Premium Beef Mince | $21.99 | Promo: 1
+✅ 插入成功: Beef Rump Steak | $27.99 | Promo: 0
+✅ 插入成功: Lamb Leg Roast | $22.49 | Promo: 0
+✅ 插入成功: Lamb Shoulder Chops | $16.49 | Promo: 1
+✅ 插入成功: NZ Beef Porterhouse Steak | $36.79 | Promo: 0
+✅ 插入成功: Beef Scotch Fillet Steak | $42.79 | Promo: 0
+✅ 插入成功: NZ Beef Schnitzel | $23.99 | Promo: 1
+✅ 插入成功: Lamb Loin Chops | $27.99 | Promo: 0
+✅ 插入成功: Harris Farms Prime Beef Mince | $10.45 | Promo: 0
+✅ 插入成功: Crumbed Beef Schnitzel | $23.99 | Promo: 1
+✅ 插入成功: Lamb Steak | $33.99 | Promo: 0
+✅ 插入成功: NZ Beef Chuck Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Stir Fry Beef | $25.99 | Promo: 1
+✅ 插入成功: NZ Lamb Leg Chops | $23.49 | Promo: 0
+✅ 插入成功: NZ Beef Blade Steak | $26.99 | Promo: 0
+✅ 插入成功: Bulk Beef Chuck Stewing Steak | $23.99 | Promo: 0
+✅ 插入成功: Lamb Mince | $26.29 | Promo: 0
+✅ 插入成功: NZ Diced Beef | $23.99 | Promo: 1
+✅ 插入成功: Lamb Shanks (Knuckles) | $21.99 | Promo: 0
+✅ 插入成功: NZ Tenderised Beef Steak | $28.99 | Promo: 0
+✅ 插入成功: Beef Fillet Steak | $62.99 | Promo: 0
+✅ 插入成功: BBQ Patties | $17.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Steak | $26.99 | Promo: 0
+✅ 插入成功: Lamb Butterfly Leg Roasts | $38.99 | Promo: 0
+✅ 插入成功: NZ Beef Shin Meat | $23.49 | Promo: 0
+✅ 插入成功: Bulk Beef Topside Steak | $25.99 | Promo: 0
+✅ 插入成功: Harris Farms Italian Shorts Beef Sausages | $8.25 | Promo: 0
+✅ 插入成功: Lamb Drumsticks | $25.99 | Promo: 0
+✅ 插入成功: NZ Beef T Bone Steak | $39.99 | Promo: 0
+✅ 插入成功: Frozen Lamb Loin Chops | $22.99 | Promo: 0
+✅ 插入成功: Bulk Lamb Loin Chops | $26.99 | Promo: 0
+✅ 插入成功: Beef Shin On Bone | $15.99 | Promo: 0
+✅ 插入成功: NZ Lamb Forequarter Roast | $18.99 | Promo: 0
+✅ 插入成功: Bulk Gravy Beef | $23.49 | Promo: 0
+✅ 插入成功: Bulk Boneless Beef Shin | $21.99 | Promo: 0
+✅ 插入成功: NZ Frenched Lamb Rack | $54.99 | Promo: 0
+✅ 插入成功: Unsliced Beef Fillet Steak | $62.99 | Promo: 0
+✅ 插入成功: NZ Gravy Beef | $25.49 | Promo: 0
+✅ 插入成功: Pams Lamb Burger Patties | $11.49 | Promo: 0
+✅ 插入成功: Steak & Cheese Patties | $17.99 | Promo: 0
+✅ 插入成功: Beef Olives | $24.99 | Promo: 0
+✅ 插入成功: Lamb Semi-Boned Forequarter | $25.99 | Promo: 0
+✅ 插入成功: NZ Lamb Leg Shank End | $22.49 | Promo: 0
+✅ 插入成功: Lamb Leg Thick End | $22.49 | Promo: 0
+✅ 插入成功: Hellers Craft Ol Smokey Beef & Brisket Smashed Burgers | $5.49 | Promo: 1
+✅ 插入成功: Hellers Craft Beef & Caramelised Onion Smashed Burgers | $5.49 | Promo: 1
+ 爬取 Egg @ store dbca5e00-f7f9-43ae-91de-031ad16f8a92
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/eggs?storeId=dbca5e00-f7f9-43ae-91de-031ad16f8a92
+✅ 插入成功: Woodland Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $8.69 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $7.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Size 6 Eggs | $14.99 | Promo: 0
+✅ 插入成功: Sure As Eggs Size 7 Eggs | $7.49 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 6 Eggs | $11.79 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 6 Eggs | $5.99 | Promo: 0
+✅ 插入成功: Farmer Brown Barn Cage Free Size 7 Eggs | $5.49 | Promo: 0
+✅ 插入成功: Bowalley Free Range Size 7 Eggs | $8.99 | Promo: 0
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $10.49 | Promo: 1
+✅ 插入成功: Bowalley Free Range Size 6 Eggs | $7.99 | Promo: 1
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $8.99 | Promo: 1
+✅ 插入成功: Farmer Brown Free Range Large Size 7 Eggs | $11.29 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $5.29 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 7 Eggs | $6.49 | Promo: 0
+✅ 插入成功: Farmer Brown Fresh Colony Size 7 Eggs | $12.99 | Promo: 0
+✅ 插入成功: Pams Free Range Free Range Size 6 Eggs | $9.49 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $6.99 | Promo: 0
+✅ 插入成功: Woodland Free Range Grade 8 Eggs | $10.99 | Promo: 0
+✅ 插入成功: Zeagold Egg White Natural Protein | $13.95 | Promo: 0
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Foods Mixed Grade Eggs | $5.99 | Promo: 0
+✅ 插入成功: Henergy Cage-Free Size 6 Eggs | $7.99 | Promo: 1
+✅ 插入成功: New Day Free Range Mixed Grade Eggs | $5.49 | Promo: 0
+✅ 插入成功: Zealand Farms Free Range Size 7 Eco Eggs | $8.49 | Promo: 1
+✅ 插入成功: Zealand Farms Free Range Animal Welfare Mixed Grade Eggs | $14.69 | Promo: 0
+✅ 插入成功: Henergy Barn Size 6 Eggs | $13.99 | Promo: 0
+✅ 插入成功: New Day Free Range Size 6 Eggs | $15.79 | Promo: 0
+ 爬取 Milk @ store dbca5e00-f7f9-43ae-91de-031ad16f8a92
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/dairy--eggs/fresh-milk?storeId=dbca5e00-f7f9-43ae-91de-031ad16f8a92
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Value Standard Milk | $4.29 | Promo: 0
+✅ 插入成功: Meadow Fresh Original Fresh Milk | $5.49 | Promo: 0
+✅ 插入成功: Value Trim Milk | $4.29 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Lite Milk | $4.95 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $4.95 | Promo: 0
+✅ 插入成功: Pams Standard Milk | $7.89 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $2.85 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $6.19 | Promo: 0
+✅ 插入成功: Meadow Fresh Lite Fresh Milk | $5.49 | Promo: 0
+✅ 插入成功: Pams Lite Milk | $2.85 | Promo: 0
+✅ 插入成功: Meadow Fresh Trim Fresh Milk | $5.49 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $4.95 | Promo: 0
+✅ 插入成功: Pams Calci Smart Milk | $3.45 | Promo: 0
+✅ 插入成功: Meadow Fresh Farmhouse Fresh Full Cream Milk | $6.79 | Promo: 0
+✅ 插入成功: Anchor A2 Blue Milk | $7.39 | Promo: 0
+✅ 插入成功: Pams Trim Milk | $7.89 | Promo: 0
+✅ 插入成功: Meadow Fresh Cultured Buttermilk | $4.89 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $3.89 | Promo: 1
+✅ 插入成功: Lewis Road Creamery Caramel Espresso Fresh Flavoured Milk | $8.09 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Rocky Road Fresh Flavoured Milk | $8.09 | Promo: 0
+✅ 插入成功: Lewis Road Creamery Rocky Road Fresh Flavoured Milk | $3.89 | Promo: 1
+ 爬取 Meat @ store dbca5e00-f7f9-43ae-91de-031ad16f8a92
+正在访问: https://www.paknsave.co.nz/shop/category/fresh-foods-and-bakery/butchery/fresh-beef--lamb?storeId=dbca5e00-f7f9-43ae-91de-031ad16f8a92
+没有弹窗按钮，或点击失败，跳过
+✅ 插入成功: Prime Beef Mince | $16.99 | Promo: 1
+✅ 插入成功: NZ Premium Beef Mince | $22.49 | Promo: 0
+✅ 插入成功: Beef Rump Steak | $26.89 | Promo: 0
+✅ 插入成功: Lamb Shoulder Chops | $16.49 | Promo: 1
+✅ 插入成功: Beef Scotch Fillet Steak | $42.79 | Promo: 0
+✅ 插入成功: NZ Beef Schnitzel | $25.49 | Promo: 0
+✅ 插入成功: Lamb Loin Chops | $28.99 | Promo: 0
+✅ 插入成功: Crumbed Beef Schnitzel | $25.49 | Promo: 0
+✅ 插入成功: Beef Bones | $5.69 | Promo: 0
+✅ 插入成功: NZ Beef Bolar Roast | $25.99 | Promo: 0
+✅ 插入成功: Lamb Steak | $33.99 | Promo: 0
+✅ 插入成功: NZ Beef Chuck Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Stir Fry Beef | $29.89 | Promo: 0
+✅ 插入成功: NZ Beef Blade Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Diced Beef | $29.89 | Promo: 0
+✅ 插入成功: Lamb Shanks (Knuckles) | $19.99 | Promo: 0
+✅ 插入成功: NZ Tenderised Beef Steak | $28.99 | Promo: 0
+✅ 插入成功: Beef Fillet Steak | $62.99 | Promo: 0
+✅ 插入成功: Beef Brisket | $21.49 | Promo: 0
+✅ 插入成功: Beef Rolled Rib Roast Plain | $19.99 | Promo: 0
+✅ 插入成功: BBQ Patties | $7.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Steak | $26.99 | Promo: 0
+✅ 插入成功: NZ Beef Topside Roast | $25.99 | Promo: 0
+✅ 插入成功: Lamb Butterfly Leg Roasts | $29.99 | Promo: 0
+✅ 插入成功: NZ Lambs Fry | $13.79 | Promo: 0
+✅ 插入成功: Lamb Hearts | $14.99 | Promo: 0
+✅ 插入成功: NZ Beef T Bone Steak | $39.99 | Promo: 0
+✅ 插入成功: Beef Cheeks | $25.99 | Promo: 0
+✅ 插入成功: NZ Frenched Lamb Rack | $54.99 | Promo: 0
+✅ 插入成功: Lamb Kidneys | $16.99 | Promo: 0
+✅ 插入成功: Swiss Roll | $13.99 | Promo: 0
+✅ 插入成功: NZ Lamb Schnitzel | $31.49 | Promo: 0
+✅ 插入成功: Diced Lamb | $37.69 | Promo: 0
+✅ 插入成功: Fresh French Lamb Cutlets | $50.99 | Promo: 0
+✅ 插入成功: Lamb Stirfry | $33.49 | Promo: 0
+PAKnSAVE data successfully collected
+====================================================================
+Exception ignored in: <function Chrome.__del__ at 0x000001DF4C8187C0>
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+  File "C:\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+OSError: [WinError 6] 句柄无效。
+ pipeline_paknsave.py 执行完成

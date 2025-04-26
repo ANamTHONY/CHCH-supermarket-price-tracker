@@ -7,10 +7,11 @@ from datetime import datetime
 import pymysql
 import time
 import re
+from product_mapper import get_product_id
 
 # connection
 db = pymysql.connect(
-    host="10.196.72.131",
+    host="127.0.0.1",
     port=3306,
     user="root",
     password="0130",
@@ -20,7 +21,7 @@ db = pymysql.connect(
 cursor = db.cursor()
 
 # drive
-driver = uc.Chrome(version_main=133, headless=False)
+driver = uc.Chrome( headless=False)
 driver.maximize_window()
 
 # ID list
@@ -57,7 +58,7 @@ def get_store_products(store_id, category_name, category_path):
             EC.presence_of_element_located((By.XPATH, '//div[@class="owfhtz0"]'))
         )
     except (NoSuchElementException, TimeoutException):
-        print("没有弹窗按钮，或点击失败，跳过")
+        print("没有弹窗按钮，跳过")
 
     try:
         WebDriverWait(driver, 15).until(
@@ -133,6 +134,9 @@ def get_store_products(store_id, category_name, category_path):
                 except ZeroDivisionError:
                     unit_price_calc = None
 
+                # id
+                product_id = get_product_id("pak", name, total_quant_text)
+
                 # 插入数据库
                 sql = """
                 INSERT INTO fact_product_price (
@@ -140,7 +144,7 @@ def get_store_products(store_id, category_name, category_path):
                 ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 """
                 values = (
-                    None,  # product_id 可以后续补
+                    product_id,  # product_id 可以后续补
                     store_id,
                     category_id,
                     price,
