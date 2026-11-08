@@ -108,10 +108,13 @@ def open_page(driver,url):
 
 
 def prepare_store(driver,name,timeout=45):
+    print('WOOLWORTHS opening eggs page for store selection:',name,flush=True)
     open_page(driver,EGGS_URL)
+    print('WOOLWORTHS selecting pickup store:',name,flush=True)
     label=select_woolworths_store(driver,name,timeout)
     # Reload with the saved pickup preference so prices come from the selected store.
     paced_navigation(driver)
+    print('WOOLWORTHS verifying saved pickup store:',label,flush=True)
     require_store(driver,label,timeout)
     return label
 

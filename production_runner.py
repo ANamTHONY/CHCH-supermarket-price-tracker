@@ -88,6 +88,7 @@ def main(source=None,argv=None):
             try:
                 print('START',src,name,'attempt',attempt+1,flush=True)
                 driver=create_driver(page_load_strategy='normal')
+                print('BROWSER READY',src,name,flush=True)
                 driver.set_page_load_timeout(45)
                 use_categories=categories[src][:1] if args.test else categories[src]
                 collector=(collect_woolworths(driver,id,name,use_categories,args.limit if args.test else None)
@@ -129,6 +130,7 @@ def main(source=None,argv=None):
                     try:save_diagnostics(driver,folder)
                     except Exception:pass
                 (folder/'error.txt').write_text(traceback.format_exc(),encoding='utf-8')
+                traceback.print_exc()
                 print('ERROR',src,name,type(error).__name__,str(error)[:250],flush=True)
                 if attempt==retries or blocked[src].is_set():
                     return {'source':src,'store_id':id,'store_name':name,'status':'failed','rows':rows,
