@@ -1,0 +1,152 @@
+[
+  {
+    "product_id": "0001",
+    "product_name": "Farmer Brown Eggs Cage-Free Barn Size 6",
+    "category_id": 1,
+    "specification": "12pk",
+    "is_analysis_selected": true,
+    "analysis_rank": 1,
+    "comparison_ready": true,
+    "selection_notes": "Match brand, egg grade, farming method and pack size."
+  },
+  {
+    "product_id": "0003",
+    "product_name": "Farmer Brown Eggs Cage-Free Barn Size 7",
+    "category_id": 1,
+    "specification": "12pk",
+    "is_analysis_selected": true,
+    "analysis_rank": 2,
+    "comparison_ready": true,
+    "selection_notes": "Match brand, egg grade, farming method and pack size."
+  },
+  {
+    "product_id": "0011",
+    "product_name": "Woodland Eggs Free Range Size 6 Carton",
+    "category_id": 1,
+    "specification": "10pk",
+    "is_analysis_selected": true,
+    "analysis_rank": 3,
+    "comparison_ready": true,
+    "selection_notes": "Match brand, egg grade, farming method and pack size."
+  },
+  {
+    "product_id": "0014",
+    "product_name": "Woodland Eggs Free Range Size 7 Carton",
+    "category_id": 1,
+    "specification": "10pk",
+    "is_analysis_selected": true,
+    "analysis_rank": 4,
+    "comparison_ready": true,
+    "selection_notes": "Match brand, egg grade, farming method and pack size."
+  },
+  {
+    "product_id": "0015",
+    "product_name": "Henergy Eggs Cage Free Size 6 Carton",
+    "category_id": 1,
+    "specification": "12pk",
+    "is_analysis_selected": true,
+    "analysis_rank": 5,
+    "comparison_ready": true,
+    "selection_notes": "Match brand, egg grade, farming method and pack size."
+  },
+  {
+    "product_id": "0019",
+    "product_name": "Meadow Fresh Original Fresh Milk",
+    "category_id": 2,
+    "specification": "1l",
+    "is_analysis_selected": true,
+    "analysis_rank": 1,
+    "comparison_ready": true,
+    "selection_notes": "Match Meadow Fresh product line, fat type and bottle volume."
+  },
+  {
+    "product_id": "0020",
+    "product_name": "Meadow Fresh Original Fresh Milk",
+    "category_id": 2,
+    "specification": "2l",
+    "is_analysis_selected": true,
+    "analysis_rank": 2,
+    "comparison_ready": true,
+    "selection_notes": "Match Meadow Fresh product line, fat type and bottle volume."
+  },
+  {
+    "product_id": "0021",
+    "product_name": "Meadow Fresh Original Fresh Milk",
+    "category_id": 2,
+    "specification": "3l",
+    "is_analysis_selected": true,
+    "analysis_rank": 3,
+    "comparison_ready": true,
+    "selection_notes": "Match Meadow Fresh product line, fat type and bottle volume."
+  },
+  {
+    "product_id": "0022",
+    "product_name": "Meadow Fresh Calci-Trim Fresh Milk",
+    "category_id": 2,
+    "specification": "1l",
+    "is_analysis_selected": true,
+    "analysis_rank": 4,
+    "comparison_ready": true,
+    "selection_notes": "Match Meadow Fresh product line, fat type and bottle volume."
+  },
+  {
+    "product_id": "0023",
+    "product_name": "Meadow Fresh Calci-Trim Fresh Milk",
+    "category_id": 2,
+    "specification": "2l",
+    "is_analysis_selected": true,
+    "analysis_rank": 5,
+    "comparison_ready": true,
+    "selection_notes": "Match Meadow Fresh product line, fat type and bottle volume."
+  },
+  {
+    "product_id": "0042",
+    "product_name": "Beef Rump Steak",
+    "category_id": 3,
+    "specification": "kg",
+    "is_analysis_selected": true,
+    "analysis_rank": 1,
+    "comparison_ready": false,
+    "selection_notes": "Review NZ origin, cut, fresh/frozen, bone and fat content, plus per-kg vs pack pricing before comparison."
+  },
+  {
+    "product_id": "0043",
+    "product_name": "NZ Beef Chuck Steak",
+    "category_id": 3,
+    "specification": "kg",
+    "is_analysis_selected": true,
+    "analysis_rank": 2,
+    "comparison_ready": false,
+    "selection_notes": "Review NZ origin, cut, fresh/frozen, bone and fat content, plus per-kg vs pack pricing before comparison."
+  },
+  {
+    "product_id": "0045",
+    "product_name": "Prime Beef Mince",
+    "category_id": 3,
+    "specification": "kg",
+    "is_analysis_selected": true,
+    "analysis_rank": 3,
+    "comparison_ready": false,
+    "selection_notes": "Review NZ origin, cut, fresh/frozen, bone and fat content, plus per-kg vs pack pricing before comparison."
+  },
+  {
+    "product_id": "0047",
+    "product_name": "NZ Diced Beef",
+    "category_id": 3,
+    "specification": "kg",
+    "is_analysis_selected": true,
+    "analysis_rank": 4,
+    "comparison_ready": false,
+    "selection_notes": "Review NZ origin, cut, fresh/frozen, bone and fat content, plus per-kg vs pack pricing before comparison."
+  },
+  {
+    "product_id": "0048",
+    "product_name": "Lamb Leg",
+    "category_id": 3,
+    "specification": "kg",
+    "is_analysis_selected": true,
+    "analysis_rank": 5,
+    "comparison_ready": false,
+    "selection_notes": "Review NZ origin, cut, fresh/frozen, bone and fat content, plus per-kg vs pack pricing before comparison."
+  }
+]
