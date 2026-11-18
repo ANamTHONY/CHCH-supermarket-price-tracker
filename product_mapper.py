@@ -1,7 +1,8 @@
 import pandas as pd
+from pathlib import Path
 
 # 加载 mapping 表
-df = pd.read_excel("map.xlsx", sheet_name=0)
+df = pd.read_excel(Path(__file__).resolve().parent / "map.xlsx", sheet_name=0)
 
 # 超市简写 -> 表头列名
 column_map = {

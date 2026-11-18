@@ -1,0 +1,53 @@
+Store Percentile =
+VAR Chain = SELECTEDVALUE(DimStore[source])
+VAR ModeName = SELECTEDVALUE(StoreValueDaily[map_mode])
+VAR CurrentMetric = AVERAGE(StoreValueDaily[metric_value])
+VAR CurrentValue = ROUND(CurrentMetric, 4)
+// Index points for Cheaper!, percentage points for More Promos!.
+VAR Tolerance = 0.1
+
+VAR PeerStores =
+    CALCULATETABLE(
+        SUMMARIZE(
+            StoreValueDaily,
+            StoreValueDaily[store_key],
+            "@Value", ROUND(AVERAGE(StoreValueDaily[metric_value]), 4)
+        ),
+        REMOVEFILTERS(DimStore),
+        REMOVEFILTERS(StoreValueDaily[store_key]),
+        StoreValueDaily[source] = Chain,
+        StoreValueDaily[map_mode] = ModeName
+    )
+VAR ValidPeers = FILTER(PeerStores, NOT ISBLANK([@Value]))
+VAR PeerCount = COUNTROWS(ValidPeers)
+VAR WorseCount =
+    COUNTROWS(
+        FILTER(
+            ValidPeers,
+            IF(
+                ModeName = "Cheaper!",
+                ROUND([@Value] - CurrentValue, 4) > Tolerance,
+                ROUND(CurrentValue - [@Value], 4) > Tolerance
+            )
+        )
+    )
+VAR TiedCount =
+    COUNTROWS(
+        FILTER(
+            ValidPeers,
+            ROUND(ABS([@Value] - CurrentValue), 4) <= Tolerance
+        )
+    )
+RETURN
+    IF(
+        ISBLANK(CurrentMetric) || ISBLANK(Chain) || ISBLANK(ModeName),
+        BLANK(),
+        IF(
+            PeerCount <= 1,
+            0.5,
+            DIVIDE(
+                COALESCE(WorseCount, 0) + (TiedCount - 1) / 2,
+                PeerCount - 1
+            )
+        )
+    )

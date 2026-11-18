@@ -1,0 +1,22 @@
+__pycache__/
+.venv/
+.env
+.databrickscfg
+data/
+logs/
+.idea/
+.vscode/
+*.py[cod]
+.pytest_cache/
+.env.*
+!.env.example
+*.pem
+*.key
+past/
+# Machine-specific task definitions and one-off power-management setup.
+tools/*_task.xml
+tools/install_boot_probe.ps1
+tools/build_temporary_shutdown.py
+
+# Local Power BI connection; a parameterized copy is in docs/.
+/StoreValueDaily.pq

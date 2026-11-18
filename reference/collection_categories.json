@@ -1,0 +1,158 @@
+{
+  "newworld": [
+    {
+      "name": "Egg",
+      "label": "Eggs",
+      "url": "/shop/category/fridge-deli-and-eggs/eggs"
+    },
+    {
+      "name": "Milk",
+      "label": "Milk",
+      "url": "/shop/category/fridge-deli-and-eggs/milk"
+    },
+    {
+      "name": "Meat",
+      "label": "Chicken & Poultry",
+      "url": "/shop/category/meat-poultry-and-seafood/chicken--poultry"
+    },
+    {
+      "name": "Meat",
+      "label": "Beef",
+      "url": "/shop/category/meat-poultry-and-seafood/beef"
+    },
+    {
+      "name": "Meat",
+      "label": "Lamb",
+      "url": "/shop/category/meat-poultry-and-seafood/lamb"
+    },
+    {
+      "name": "Meat",
+      "label": "Pork & Ham",
+      "url": "/shop/category/meat-poultry-and-seafood/pork--ham"
+    },
+    {
+      "name": "Meat",
+      "label": "Venison & Game",
+      "url": "/shop/category/meat-poultry-and-seafood/venison--game"
+    },
+    {
+      "name": "Meat",
+      "label": "Mince, Sausages & Meatballs",
+      "url": "/shop/category/meat-poultry-and-seafood/mince-sausages--meatballs"
+    },
+    {
+      "name": "Meat",
+      "label": "Offal & Bones",
+      "url": "/shop/category/meat-poultry-and-seafood/offal--bones"
+    },
+    {
+      "name": "Meat",
+      "label": "Deli Meats",
+      "url": "/shop/category/meat-poultry-and-seafood/deli-meats"
+    }
+  ],
+  "paknsave": [
+    {
+      "name": "Egg",
+      "label": "Eggs",
+      "url": "/shop/category/fridge-deli-and-eggs/eggs"
+    },
+    {
+      "name": "Milk",
+      "label": "Milk",
+      "url": "/shop/category/fridge-deli-and-eggs/milk"
+    },
+    {
+      "name": "Meat",
+      "label": "Chicken & Poultry",
+      "url": "/shop/category/meat-poultry-and-seafood/chicken--poultry"
+    },
+    {
+      "name": "Meat",
+      "label": "Beef",
+      "url": "/shop/category/meat-poultry-and-seafood/beef"
+    },
+    {
+      "name": "Meat",
+      "label": "Lamb",
+      "url": "/shop/category/meat-poultry-and-seafood/lamb"
+    },
+    {
+      "name": "Meat",
+      "label": "Pork & Ham",
+      "url": "/shop/category/meat-poultry-and-seafood/pork--ham"
+    },
+    {
+      "name": "Meat",
+      "label": "Venison & Game",
+      "url": "/shop/category/meat-poultry-and-seafood/venison--game"
+    },
+    {
+      "name": "Meat",
+      "label": "Mince, Sausages & Meatballs",
+      "url": "/shop/category/meat-poultry-and-seafood/mince-sausages--meatballs"
+    },
+    {
+      "name": "Meat",
+      "label": "Offal & Bones",
+      "url": "/shop/category/meat-poultry-and-seafood/offal--bones"
+    },
+    {
+      "name": "Meat",
+      "label": "Deli Meats",
+      "url": "/shop/category/meat-poultry-and-seafood/deli-meats"
+    }
+  ],
+  "woolworths": [
+    {
+      "name": "Egg",
+      "label": "Eggs",
+      "url": "https://www.woolworths.co.nz/shop/browse/pantry/eggs"
+    },
+    {
+      "name": "Milk",
+      "label": "Milk",
+      "url": "https://www.woolworths.co.nz/shop/browse/fridge-deli/milk"
+    },
+    {
+      "name": "Meat",
+      "label": "beef",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/beef"
+    },
+    {
+      "name": "Meat",
+      "label": "chicken-poultry",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/chicken-poultry"
+    },
+    {
+      "name": "Meat",
+      "label": "lamb",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/lamb"
+    },
+    {
+      "name": "Meat",
+      "label": "pork",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/pork"
+    },
+    {
+      "name": "Meat",
+      "label": "mince-patties",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/mince-patties"
+    },
+    {
+      "name": "Meat",
+      "label": "offal-bones",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/offal-bones"
+    },
+    {
+      "name": "Meat",
+      "label": "sausages",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/sausages"
+    },
+    {
+      "name": "Meat",
+      "label": "venison-game",
+      "url": "https://www.woolworths.co.nz/shop/browse/meat-poultry/venison-game"
+    }
+  ]
+}

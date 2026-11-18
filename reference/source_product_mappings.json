@@ -1,0 +1,233 @@
+[
+  {
+    "source": "newworld",
+    "source_product_id": "product-5269558-EA-000",
+    "product_id": "0012",
+    "original_name": "Woodland Free Range Size 6 Eggs",
+    "original_specification": "18pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5240876-EA-000",
+    "product_id": null,
+    "original_name": "Farmer Brown Fresh Colony Caged Size 7 Eggs",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5101827-EA-000",
+    "product_id": null,
+    "original_name": "Natural Free-Range Co Natural Free-Range Eggs",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5021173-EA-000",
+    "product_id": null,
+    "original_name": "Zeagold Egg White Natural Protein",
+    "original_specification": "980ml",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5309533-EA-000",
+    "product_id": null,
+    "original_name": "Farmer Brown Fresh Colony Caged Size 8 Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5023573-EA-000",
+    "product_id": "0014",
+    "original_name": "Woodland Free Range Size 7 Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5256998-EA-000",
+    "product_id": "0001",
+    "original_name": "Farmer Brown Cage-Free Barn Size 6 Eggs",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5023568-EA-000",
+    "product_id": "0011",
+    "original_name": "Woodland Free Range Size 6 Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5314652-EA-000",
+    "product_id": null,
+    "original_name": "Farmer Brown Fresh Colony Caged Size 6 Eggs",
+    "original_specification": "18pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5303468-EA-000",
+    "product_id": null,
+    "original_name": "Bowalley Free Range Mixed Grade Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "newworld",
+    "source_product_id": "product-5040640-EA-000",
+    "product_id": null,
+    "original_name": "Woodland Free Range Grade 8 Eggs",
+    "original_specification": "6pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "paknsave",
+    "source_product_id": "product-5240876-EA-000",
+    "product_id": null,
+    "original_name": "Farmer Brown Fresh Colony Caged Size 7 Eggs",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "paknsave",
+    "source_product_id": "product-5310558-EA-000",
+    "product_id": null,
+    "original_name": "Sure As Eggs Mixed Grade Colony Caged Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "paknsave",
+    "source_product_id": "product-5023573-EA-000",
+    "product_id": "0014",
+    "original_name": "Woodland Free Range Size 7 Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "paknsave",
+    "source_product_id": "product-5023568-EA-000",
+    "product_id": "0011",
+    "original_name": "Woodland Free Range Size 6 Eggs",
+    "original_specification": "10pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "paknsave",
+    "source_product_id": "product-5256998-EA-000",
+    "product_id": "0001",
+    "original_name": "Farmer Brown Cage-Free Barn Size 6 Eggs",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": null,
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "woolworths",
+    "source_product_id": "352492",
+    "product_id": "0015",
+    "original_name": "Henergy Eggs Cage Free Size 6 12 Pack",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": "https://www.woolworths.co.nz/shop/product-details/352492/henergy-eggs-cage-free-size-6",
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "woolworths",
+    "source_product_id": "422870",
+    "product_id": null,
+    "original_name": "Woolworths Eggs Barn Mixed Grade 20 Pack",
+    "original_specification": "20pk",
+    "category_id": 1,
+    "product_url": "https://www.woolworths.co.nz/shop/product-details/422870/woolworths-eggs-barn-mixed-grade",
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "woolworths",
+    "source_product_id": "52216",
+    "product_id": "0001",
+    "original_name": "Farmer Brown Eggs Cage Free Barn Size 6 12 Pack",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": "https://www.woolworths.co.nz/shop/product-details/52216/farmer-brown-eggs-cage-free-barn-size-6",
+    "mapping_status": "exact_reference",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "woolworths",
+    "source_product_id": "336101",
+    "product_id": null,
+    "original_name": "Woolworths Eggs Barn Size 7 12 Pack",
+    "original_specification": "12pk",
+    "category_id": 1,
+    "product_url": "https://www.woolworths.co.nz/shop/product-details/336101/woolworths-eggs-barn-size-7",
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  },
+  {
+    "source": "woolworths",
+    "source_product_id": "820276",
+    "product_id": null,
+    "original_name": "Henergy Eggs Cage Free Size 7 18 Pack",
+    "original_specification": "18pk",
+    "category_id": 1,
+    "product_url": "https://www.woolworths.co.nz/shop/product-details/820276/henergy-eggs-cage-free-size-7",
+    "mapping_status": "pending",
+    "mapping_note": "Observed verified-store test SKU; exact reference match only."
+  }
+]

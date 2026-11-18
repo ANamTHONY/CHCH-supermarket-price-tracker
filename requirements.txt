@@ -1,0 +1,7 @@
+setuptools==84.2.1
+undetected-chromedriver==3.5.5
+selenium==4.51.0
+databricks-sdk>=0.72.0,<1
+pandas==3.1.0
+openpyxl==3.1.5
+sqlparse==0.6.0

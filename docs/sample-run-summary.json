@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-18",
+  "timezone": "Pacific/Auckland",
+  "provenance": "Aggregated from the saved Silver SQL audit; raw observations and workspace identifiers are excluded.",
+  "sources": [
+    {
+      "source": "newworld",
+      "stores": 11,
+      "rows": 5833,
+      "mapped": 332,
+      "missing_price": 0,
+      "zero_price": 0,
+      "missing_unit_price": 0,
+      "unverified": 0
+    },
+    {
+      "source": "paknsave",
+      "stores": 5,
+      "rows": 2623,
+      "mapped": 145,
+      "missing_price": 0,
+      "zero_price": 0,
+      "missing_unit_price": 0,
+      "unverified": 0
+    },
+    {
+      "source": "woolworths",
+      "stores": 12,
+      "rows": 5596,
+      "mapped": 120,
+      "missing_price": 0,
+      "zero_price": 0,
+      "missing_unit_price": 0,
+      "unverified": 0
+    }
+  ],
+  "totals": {
+    "stores": 28,
+    "rows": 14052,
+    "mapped": 597,
+    "missing_price": 0,
+    "zero_price": 0,
+    "missing_unit_price": 0,
+    "unverified": 0
+  },
+  "integrity": {
+    "duplicate_ids": 0,
+    "missing_sku": 0,
+    "missing_url": 0,
+    "orphan_store": 0,
+    "orphan_product": 0,
+    "orphan_date": 0
+  },
+  "interpretation": "A dated operational snapshot, not a benchmark or a guarantee of future completeness. Mapped observations are only a subset of collected source products."
+}
