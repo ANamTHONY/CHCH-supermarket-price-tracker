@@ -25,16 +25,19 @@ necessarily mean that every product or price has loaded.
 
 ```mermaid
 flowchart LR
-    A[Windows Task Scheduler] --> B[Python / Selenium collectors]
-    B --> C[Store verification and pagination checks]
-    C --> D[Local CSV, details and run manifest]
-    D --> E[Unity Catalog Volume]
-    E --> F[Immutable ready-batch marker]
-    F --> G[Databricks single-writer Job]
-    G --> H[Bronze: raw observations and ingestion ledger]
-    H --> I[Silver: prices and dimensions]
-    I --> J[Gold: comparison and quality views]
-    J --> K[Power BI / SQL analysis]
+    A[Windows Task Scheduler] --> B[Python / Selenium]
+    B --> C[Local CSV]
+    C --> D[Unity Catalog Volume]
+    D --> E[Databricks Job]
+    E --> M
+
+    subgraph M[Medallion Architecture]
+        direction TB
+        Bronze[Bronze: Raw data] --> Silver[Silver: Cleaned prices and dimensions]
+        Silver --> Gold[Gold: Analytics views]
+    end
+
+    M --> F[Power BI]
 ```
 
 The working deployment collects on a local Windows machine and processes data
