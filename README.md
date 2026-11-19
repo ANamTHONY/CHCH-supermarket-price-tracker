@@ -26,8 +26,7 @@ necessarily mean that every product or price has loaded.
 ```mermaid
 flowchart LR
     A[Windows Task Scheduler] --> B[Python / Selenium]
-    B --> C[Local CSV]
-    C --> D[Unity Catalog Volume]
+    B --> D["Unity Catalog Volume (CSV)"]
     D --> E[Databricks Job]
     E --> M
 
