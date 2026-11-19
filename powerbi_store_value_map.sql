@@ -1,4 +1,10 @@
-WITH target_stores AS (
+WITH effective_prices AS (
+    SELECT * EXCEPT (total_price),
+        CASE WHEN member_price > 0 AND (total_price IS NULL OR total_price <= 0 OR member_price < total_price)
+             THEN member_price WHEN total_price > 0 THEN total_price END AS total_price
+    FROM workspace.default.silver_fact_product_price
+),
+target_stores AS (
     SELECT store_key, source
     FROM workspace.default.silver_dim_store
     WHERE is_christchurch_urban = TRUE
@@ -23,7 +29,7 @@ store_skus AS (
         CASE WHEN COUNT(is_promo) = COUNT(*)
                   AND COUNT(DISTINCT is_promo) = 1
              THEN MAX(CAST(is_promo AS INT)) END AS promo
-    FROM workspace.default.silver_fact_product_price
+    FROM effective_prices
     WHERE store_verification_status = 'verified'
       AND store_key IN (SELECT store_key FROM target_stores)
       AND category_id IN (1, 2, 3)

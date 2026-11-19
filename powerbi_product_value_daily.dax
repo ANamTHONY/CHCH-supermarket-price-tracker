@@ -1,0 +1,66 @@
+// One eligible observation per store, tracked product and day.
+// Lowest valid regular/member unit price. Previous 28 calendar days,
+// excluding the current day, with at least 7 observed days.
+VAR Daily =
+    FILTER (
+        ADDCOLUMNS (
+            SUMMARIZE (
+                FactPriceAll,
+                FactPriceAll[collected_date], FactPriceAll[store_key],
+                FactPriceAll[source], FactPriceAll[product_id],
+                FactPriceAll[source_product_id], FactPriceAll[original_specification],
+                FactPriceAll[normalized_unit]
+            ),
+            "DailyPrice", CALCULATE (
+                IF (
+                    DISTINCTCOUNT ( FactPriceAll[Effective Unit Price] ) = 1,
+                    MAX ( FactPriceAll[Effective Unit Price] )
+                )
+            )
+        ),
+        [DailyPrice] > 0
+            && NOT ISBLANK ( FactPriceAll[source_product_id] )
+            && NOT ISBLANK ( FactPriceAll[normalized_unit] )
+    )
+VAR Compared = GENERATE (
+    Daily,
+    VAR D = FactPriceAll[collected_date]
+    VAR S = FactPriceAll[store_key]
+    VAR P = FactPriceAll[product_id]
+    VAR SKU = FactPriceAll[source_product_id]
+    VAR Pack = FactPriceAll[original_specification]
+    VAR U = FactPriceAll[normalized_unit]
+    VAR History = FILTER (
+        Daily,
+        FactPriceAll[store_key] = S && FactPriceAll[product_id] = P
+            && FactPriceAll[source_product_id] = SKU
+            && FactPriceAll[original_specification] = Pack
+            && FactPriceAll[normalized_unit] = U
+            && FactPriceAll[collected_date] >= D - 28
+            && FactPriceAll[collected_date] < D
+    )
+    VAR N = COUNTROWS ( History )
+    VAR Baseline = MEDIANX ( History, [DailyPrice] )
+    VAR VariantsToday = COUNTROWS ( FILTER ( Daily,
+        FactPriceAll[store_key] = S && FactPriceAll[product_id] = P
+            && FactPriceAll[collected_date] = D ) )
+    RETURN ROW (
+        "HistoryDays", N,
+        "UsualPrice", Baseline,
+        "LowPriceFlag", IF ( N >= 7 && VariantsToday = 1,
+            INT ( ROUND ( [DailyPrice], 6 ) < ROUND ( Baseline, 6 ) ) )
+    )
+)
+RETURN SELECTCOLUMNS (
+    FILTER ( Compared, NOT ISBLANK ( [LowPriceFlag] ) ),
+    "collected_date", FactPriceAll[collected_date],
+    "store_key", FactPriceAll[store_key],
+    "source", FactPriceAll[source],
+    "product_id", FactPriceAll[product_id],
+    "weekday_number", WEEKDAY ( FactPriceAll[collected_date], 2 ),
+    "weekday_name", FORMAT ( FactPriceAll[collected_date], "ddd", "en-US" ),
+    "daily_price", [DailyPrice],
+    "usual_price", [UsualPrice],
+    "history_days", [HistoryDays],
+    "low_price_flag", [LowPriceFlag]
+)
